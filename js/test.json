@@ -1,0 +1,462 @@
+var testData = {
+  "text": "已有<span style='color:#FFEE40;'>2323232</span>人通过过测试获得解决方案",
+  "questions": [
+    {
+      "bgImage": "./images/bg1.jpg",
+      "progressSrc": "./images/progress1.png",
+      "question": "你想获得的学历",
+      "options": [
+      {
+        "id": "d1",
+        "content": "大专",
+        "conditions": []
+      },
+      {
+        "id": "d2",
+        "content": "本科",
+        "conditions": []
+      },
+      {
+        "id": "d3",
+        "content": "硕士研究生",
+        "conditions": []
+      }]
+    },
+    {
+      "bgImage": "./images/bg2.jpg",
+      "progressSrc": "./images/progress2.png",
+      "question": "你当前的学历",
+      "options": [
+      {
+        "id": "c1",
+        "content": "高中以下",
+        "conditions": ["d1", "d2", "d3"]
+      },
+      {
+        "id": "c2",
+        "content": "高中",
+        "conditions": ["d1", "d2", "d3"]
+      },
+      {
+        "id": "c3",
+        "content": "大专",
+        "conditions": ["d1", "d2", "d3"]
+      },
+      {
+        "id": "c4",
+        "content": "本科及以上",
+        "conditions": ["d2", "d3"]
+      }]
+    },
+    {
+      "bgImage": "./images/bg3.jpg",
+      "progressSrc": "./images/progress3.png",
+      "question": "你的年龄",
+      "options": [
+      {
+        "id": "b1",
+        "content": "18-25岁",
+      },
+      {
+        "id": "b2",
+        "content": "26-35岁",
+      },
+      {
+        "id": "b3",
+        "content": "36-45岁",
+      },
+      {
+        "id": "b4",
+        "content": "46岁及以上",
+      }]
+    },
+    {
+      "bgImage": "./images/bg4.jpg",
+      "progressSrc": "./images/progress4.png",
+      "question": "你现在的职业状态",
+      "options": [
+      {
+        "id": "a1",
+        "content": "在职"
+      },
+      {
+        "id": "a2",
+        "content": "自由职业"
+      },
+      {
+        "id": "a3",
+        "content": "全职妈妈/全职奶爸"
+      },
+      {
+        "id": "a4",
+        "content": "学生、待业或求职中"
+      }]
+    },
+    {
+      "bgImage": "./images/bg5.jpg",
+      "progressSrc": "./images/progress5.png",
+      "question": "你平时可用在学习上的时间",
+      "options": [
+      {
+        "id": "e1",
+        "content": "每天全天"
+      },
+      {
+        "id": "e2",
+        "content": "每天晚上",
+      },
+      {
+        "id": "e3",
+        "content": "每周周末",
+      },
+      {
+        "id": "e4",
+        "content": "不定时",
+      }]
+    },
+    {
+      "bgImage": "./images/bg6.jpg",
+      "progressSrc": "./images/progress6.png",
+      "question": "以下有你希望从事的职业吗",
+      "options": [
+      {
+        "id": "f1",
+        "content": "教师",
+      },
+      {
+        "id": "f2",
+        "content": "财会",
+      },
+      {
+        "id": "f3",
+        "content": "文秘/行政",
+      },
+      {
+        "id": "f4",
+        "content": "人力资源",
+      },
+      {
+        "id": "f5",
+        "content": "没有",
+      }]
+    },
+    {
+      "bgImage": "./images/bg7.jpg",
+      "progressSrc": "./images/progress7.png",
+      "question": "以下有你希望从事的职业吗",
+      "options": [
+      {
+        "id": "g1",
+        "content": "IT/互联网",
+      },
+      {
+        "id": "g2",
+        "content": "法律行业",
+      },
+      {
+        "id": "g3",
+        "content": "广告行业",
+      },
+      {
+        "id": "g4",
+        "content": "银行/证券/金融行业",
+      },
+      {
+        "id": "g5",
+        "content": "没有",
+      }]
+    },
+
+  ],
+  "results":
+  {
+    "consultText": "万能的咨询师小姐姐已等候多时，来了解一下？",
+    "bgImage": "./images/bg_result.jpg",
+    "lists": [
+      {
+        "question": "测试结果",
+        "answers": [
+        {
+          "title": "不固步自封的前行者",
+          "tagName": "关键词",
+          "tagBgImage": "./images/keywords_btn.png",
+          "tags": [
+          {
+            "title": "学习积极分子",
+            "imgSrc": "./images/bg11.png"
+          },
+          {
+            "title": "目光犀利完美主义",
+            "imgSrc": "./images/bg33.png"
+          },
+          {
+            "title": "静如死猪动如疯兔",
+            "imgSrc": "./images/bg22.png"
+          }],
+          "remark": "日复一日的机械化生活，没有磨灭你曾经的理想和热情。你计划着改变，而且即将获得之前努力带给你的回报",
+          "conditions": [
+            ["a1", "b1"],
+            ["a1", "b2"],
+            ["a1", "b3"],
+          ]
+        },
+        {
+          "title": "随性洒脱的梦想家",
+          "tagName": "关键词",
+          "tags": [
+          {
+            "title": "爱发呆爱鸡冻",
+            "imgSrc": "./images/bg11.png"
+          },
+          {
+            "title": "家里蹲办公室主任",
+            "imgSrc": "./images/bg33.png"
+          },
+          {
+            "title": "梦想还是要有的",
+            "imgSrc": "./images/bg22.png"
+          }],
+          "remark": "又到了下一个出发时刻，人生是一段又一段的目标和经过，从不会有真正的终点，一切平静都会迎来下一次的改变",
+          "conditions": [
+            ["a2", "b1"],
+            ["a2", "b2"],
+            ["a2", "b3"]
+          ]
+        },
+        {
+          "title": "孩子眼中最好的榜样",
+          "tagName": "关键词",
+          "tags": [
+          {
+            "title": "晒娃协会高级会员",
+            "imgSrc": "./images/bg11.png"
+          },
+          {
+            "title": "爱健康爱养生",
+            "imgSrc": "./images/bg33.png"
+          },
+          {
+            "title": "在家超人在外大神",
+            "imgSrc": "./images/bg22.png"
+          }],
+          "remark": "你已习惯于默默对家庭付出，但内心的期盼与失落挥之不去。现在就出发，去享受学习和事业上的肯定带给你的满足感吧",
+          "conditions": [
+            ["a3", "b1"],
+            ["a3", "b2"],
+            ["a3", "b3"]
+          ]
+        },
+        {
+          "title": "不被现实打败的潜行者",
+          "tagName": "关键词",
+          "tags": [
+          {
+            "title": "抗打击俱乐部会长",
+            "imgSrc": "./images/bg11.png"
+          },
+          {
+            "title": "身披铠甲",
+            "imgSrc": "./images/bg33.png"
+          },
+          {
+            "title": "心存柔软",
+            "imgSrc": "./images/bg22.png"
+          }],
+          "remark": "事业上曾受过挫折的你，开始觉察到近期这种情绪和状态就是新生活的开始，结束并不代表失去，而是另一种获得和开始",
+          "conditions": [
+            ["a4", "b1"],
+            ["a4", "b2"],
+            ["a4", "b3"],
+          ]
+        },
+        {
+          "title": "终身学习的践行者",
+          "tagName": "关键词",
+          "tags": [
+          {
+            "title": "学无止境",
+            "imgSrc": "./images/bg11.png"
+          },
+          {
+            "title": "爱交友爱生命",
+            "imgSrc": "./images/bg33.png"
+          },
+          {
+            "title": "朋友圈点赞狂",
+            "imgSrc": "./images/bg22.png"
+          }],
+          "remark": "看山是山-看山不是山-看山还是山，个中滋味相信此时此刻的你已经知晓，并会接纳自我和欲望，回归本心",
+          "conditions": [
+            ["a1", "b4"],
+            ["a2", "b4"],
+            ["a3", "b4"],
+            ["a4", "b4"],
+          ]
+        }, ]
+
+      },
+      {
+        "question": "适合你的学历提升方式：",
+        "linkText": "在线咨询：我该如何报考？",
+        "imgSrc": "./images/target.png",
+        "answers": [
+        {
+          "title": "自考大专，学习方式自由，考证快",
+          "secondaryTitle": "什么是自考？",
+          "secondaryContent": "1988年，《教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。凡中国公民均可参加自学考试，国家承认其学历。",
+          "conditions": [
+            ["c1", "d1"],
+            ["c2", "d1"],
+            ["c3", "d1"]
+          ],
+        },
+        {
+          "title": "自考专本连续，快速考证，省学费",
+          "secondaryTitle": "什么是自考？",
+          "secondaryContent": "1988年，《教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。凡中国公民均可参加自学考试，国家承认其学历。",
+          "conditions": [
+            ["c1", "d2"],
+            ["c2", "d2"]
+          ]
+        },
+        {
+          "title": "自考专科或本科学历，专科毕业2年后或本科毕业直接报考硕士研究生，步步为营",
+          "secondaryTitle": "什么是自考？",
+          "secondaryContent": "1988年，《教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。凡中国公民均可参加自学考试，国家承认其学历。",
+          "conditions": [
+            ["c1", "d3"],
+            ["c2", "d3"]
+          ]
+        },
+        {
+          "title": "自考本科，学习方式自由，考证快",
+          "secondaryTitle": "什么是自考？",
+          "secondaryContent": "1988年，《教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。凡中国公民均可参加自学考试，国家承认其学历。",
+          "conditions": [
+            ["c3", "d2"]
+          ]
+        },
+        {
+          "title": "通过自考本科获得本科学历，再报考硕士研究生，或大专毕业后2年或2年以上，报考硕士研究生。",
+          "secondaryTitle": "什么是自考？",
+          "secondaryContent": "1988年，《教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。凡中国公民均可参加自学考试，国家承认其学历。",
+          "conditions": [
+            ["c3", "d3"]
+          ]
+        },
+        {
+          "title": "直接报考硕士研究生",
+          "secondaryTitle": "什么是自考？",
+          "secondaryContent": "1988年，《教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。凡中国公民均可参加自学考试，国家承认其学历。",
+          "conditions": [
+            ["c4", "d3"]
+          ]
+        }, ]
+
+      },
+      {
+        "question": "适合你的学习方法：",
+        "linkText": "在线咨询：提升通过率的备考秘籍",
+        "imgSrc": "./images/bg555.png",
+        "answers": [
+        {
+          "title": "观看在线课程直播，课后专业老师辅导，老师领路不迷茫",
+          "secondaryTitle": "自学考难吗？",
+          "secondaryContent": "如果完全自学，自考确实很难，每年都有大量考生中途放弃，所谓的难，难在坚持。如果参加辅导班，拿尚德机构的数据来说，当一门课直播20小时，也就是每天学习半个小时，通过率接近70%。",
+          "conditions": [
+            ["e1"],
+            ["e2"]
+          ],
+        },
+        {
+          "title": "空闲时间学习在线课程，课后专业老师辅导，时间灵活效率高",
+          "secondaryTitle": "自学考难吗？",
+          "secondaryContent": "如果完全自学，自考确实很难，每年都有大量考生中途放弃，所谓的难，难在坚持。如果参加辅导班，拿尚德机构的数据来说，当一门课直播20小时，也就是每天学习半个小时，通过率接近70%。",
+          "conditions": [
+            ["e3"],
+            ["e4"]
+          ]
+        }]
+
+      },
+      {
+        "question": "适合你学习的专业：",
+        "linkText": "在线咨询：尚徳政策保障班",
+        "imgSrc": "./images/expertise.png",
+        "answers": [
+        {
+          "title": "<p>你可以选择学前教育、汉语言文学专业</p><p>——考试易过，越老越吃香</p>",
+          "conditions": [
+            ["f1"]
+          ],
+        },
+        {
+          "title": "<p>你可选择会计专业</p><p>——专业度高，收入稳定</p>",
+          "conditions": [
+            ["f2"]
+          ]
+        },
+        {
+          "title": "<p>你可以选择行政管理、工商企业管理、项目管理、英语专业</p><p>——专业度高，就业面广泛</p>",
+          "conditions": [
+            ["f3"]
+          ]
+        },
+        {
+          "title": "<p>你可以选择人力资源管理专业</p><p>——专业度高，企业对该职位需求广泛</p>",
+          "conditions": [
+            ["f4"]
+          ]
+        },
+        {
+          "title": "<p>你可以选择计算机信息管理、项目管理专业</p><p>——行业前景好，未来收入可观</p>",
+          "secondaryTitle": "专业选择很纠结怎么办？",
+          "secondaryContent": "近几年自考改革多达67项，停考专业可能会变多，这是最大的风险。对此，尚德机构限额推出《政策保障班》，如政策导致您报读的专业停止招生或无法继续报考，在尚未报考的前提下，可提出退费（具体内容以合同为准）。",
+          "conditions": [
+            ["g1"]
+          ]
+        },
+        {
+          "title": "<p>你可以选择法律专业</p><p>——专业度高，收入稳定</p>",
+          "secondaryTitle": "专业选择很纠结怎么办？",
+          "secondaryContent": "近几年自考改革多达67项，停考专业可能会变多，这是最大的风险。对此，尚德机构限额推出《政策保障班》，如政策导致您报读的专业停止招生或无法继续报考，在尚未报考的前提下，可提出退费（具体内容以合同为准）。",
+          "conditions": [
+            ["g2"]
+          ]
+        },
+        {
+          "title": "<p>你可以选择广告学专业</p><p>——专业度高，就业面广泛</p>",
+          "secondaryTitle": "专业选择很纠结怎么办？",
+          "secondaryContent": "近几年自考改革多达67项，停考专业可能会变多，这是最大的风险。对此，尚德机构限额推出《政策保障班》，如政策导致您报读的专业停止招生或无法继续报考，在尚未报考的前提下，可提出退费（具体内容以合同为准）。",
+          "conditions": [
+            ["g3"]
+          ]
+        },
+        {
+          "title": "<p>你可以选择金融学专业</p><p>——行业前景好，未来收入可观</p>",
+          "secondaryTitle": "专业选择很纠结怎么办？",
+          "secondaryContent": "近几年自考改革多达67项，停考专业可能会变多，这是最大的风险。对此，尚德机构限额推出《政策保障班》，如政策导致您报读的专业停止招生或无法继续报考，在尚未报考的前提下，可提出退费（具体内容以合同为准）。",
+          "conditions": [
+            ["g4"]
+          ]
+        },
+        {
+          "title": "抱歉，系统测试没有猜中你想要学的专业，您可以在线咨询如何选择专业",
+          "secondaryTitle": "专业选择很纠结怎么办？",
+          "secondaryContent": "近几年自考改革多达67项，停考专业可能会变多，这是最大的风险。对此，尚德机构限额推出《政策保障班》，如政策导致您报读的专业停止招生或无法继续报考，在尚未报考的前提下，可提出退费（具体内容以合同为准）。",
+          "conditions": [
+            ["f5"],
+            ["g5"]
+          ]
+        }]
+
+      }
+
+
+    ]
+  }
+
+
+
+
+}

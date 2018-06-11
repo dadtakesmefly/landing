@@ -1,0 +1,75 @@
+var majorData = {
+  "banner": "./images/academy_top_banner_1.png",
+  "typeList": [
+    {
+      "url": "./images/major_1.png",
+      "name": "投放当地推荐专业名",
+      "labels": [
+        "就业岗位",
+        "就业岗位"
+      ],
+      "content": "当地院校名称、当地院校名称",
+      "tit": "最会赚钱的专业等一句话"
+    },
+    {
+      "url": "./images/major_2.png",
+      "name": "投放当地推荐专业名",
+      "labels": [
+        "就业岗位",
+        "就业岗位"
+      ],
+      "content": "当地院校名称、当地院校名称",
+      "tit": "最会赚钱的专业等一句话"
+    },
+    {
+      "url": "./images/major_3.png",
+      "name": "投放当地推荐专业名",
+      "labels": [
+        "就业岗位",
+        "就业岗位"
+      ],
+      "content": "当地院校名称、当地院校名称",
+      "tit": "最会赚钱的专业等一句话"
+    },
+    {
+      "url": "./images/major_2.png",
+      "name": "投放当地推荐专业名",
+      "labels": [
+        "就业岗位",
+        "就业岗位"
+      ],
+      "content": "当地院校名称、当地院校名称",
+      "tit": "最会赚钱的专业等一句话"
+    },
+    {
+      "url": "./images/major_3.png",
+      "name": "投放当地推荐专业名",
+      "labels": [
+        "就业岗位",
+        "就业岗位"
+      ],
+      "content": "当地院校名称、当地院校名称",
+      "tit": "最会赚钱的专业等一句话"
+    }
+  ],
+  "conList": [
+    {
+      "url": "./images/academy_counselor_banner_1.png"
+    },
+    {
+      "url": "./images/academy_counselor_banner_2.png"
+    },
+    {
+      "url": "./images/academy_counselor_banner_3.png"
+    },
+    {
+      "url": "./images/academy_counselor_banner_1.png"
+    },
+    {
+      "url": "./images/academy_counselor_banner_2.png"
+    },
+    {
+      "url": "./images/academy_counselor_banner_3.png"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+webpackJsonp([10],{FB7N:function(e,a,o){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var t=o("7+uW"),c=o("/ocq"),u=o("9Qok"),n=o("hYSc");t.default.use(c.a),Object(u.a)(new c.a({routes:[{path:"/",name:"courses",component:n.a}]}))}},["FB7N"]);

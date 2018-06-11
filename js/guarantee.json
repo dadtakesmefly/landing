@@ -1,0 +1,156 @@
+var guaranteeData = {
+  "location":"./images/location.png",
+  "banner": "./images/safe_top_banner.png",
+  "typeList": [
+    {
+      "name": "教学保障",
+      "id": "teach"
+    },
+    {
+      "name": "品牌保障",
+      "id": "brand"
+    }
+  ],
+  "teach": [
+    {
+      "tit": "独家押题 保障通过",
+      "tip": [
+        "联手高校，独家新密押题资料"
+      ],
+      "tip2":{
+        "tip2_f":"成功帮助",
+        "tip2_n":"万",
+        "tip2_b":"名学员获取证书，承诺考试不过保险理赔"
+      }
+    },
+    {
+      "tit": "严选名师 精造好课",
+      "teachers": [
+        {
+          "img": "./images/safe_Avatar_1.png",
+          "name": "周扬",
+          "jog": "首都师范大学教育学硕士",
+          "technical": [
+            "学术研究专家",
+            "资深讲师",
+            "好评牛师"
+          ]
+        },
+        {
+          "img": "./images/safe_Avatar_2.png",
+          "name": "周扬",
+          "jog": "首都师范大学教育学硕士",
+          "technical": [
+            "学术研究专家",
+            "资深讲师",
+            "好评牛师"
+          ]
+        }
+      ]
+    },
+    {
+      "tip": "已有10000+老师入驻尚徳",
+      "tit": "量身定制 学习辅导",
+      "label": [
+        "低基础入门",
+        "教材精讲／解析",
+        "定制学历提升方案",
+        "冲刺串讲／模块教学",
+        "学校专业选择方案",
+        "考前模拟／押题"
+      ]
+    },
+    {
+      "tit": "一对一 监督学习",
+      "label": [
+        {
+          "img": "./images/zbms.png",
+          "tit": "每周4x12小时"
+        },
+        {
+          "img": "./images/jdjx.png",
+          "tit": "名师一对一"
+        }
+      ]
+    },
+    {
+      "tit":"直播+录播授课方式",
+      "img":"./images/zhibolubo.png",
+      "subTit":"直播+录播授课,与老师互动学习,上课时间更自由"
+    },
+    {
+      "tit": "优秀学员",
+      "user": [
+        {
+          "img": "./images/safe_Avatar_3.png",
+          "name": "大梦",
+          "label": [
+            "湖北",
+            "专升本"
+          ],
+          "tag": [
+            "华中科技大学",
+            "新闻传播"
+          ],
+          "prise": "./images/prise.png",
+          "content": "刚拿华中科技大学新闻传播专业本科，前后才花了1年半的时间，特别感谢李老师的耐心指导，让学习有趣又充实！"
+        },
+        {
+          "img": "./images/jdjx.png",
+          "name": "小梦",
+          "label": [
+            "湖北",
+            "专升本"
+          ],
+          "tag": [
+            "华中科技大学",
+            "新闻传播"
+          ],
+          "prise": "./images/prise.png",
+          "content": "刚拿华中科技大学新闻传播专业本科，前后才花了1年半的时间，特别感谢李老师的耐心指导，让学习有趣又充实！"
+        },
+        {
+          "img": "./images/banner01.png",
+          "name": "中梦",
+          "label": [
+            "湖北",
+            "专升本"
+          ],
+          "tag": [
+            "华中科技大学",
+            "新闻传播"
+          ],
+          "prise": "./images/prise.png",
+          "content": "刚拿华中科技大学新闻传播专业本科，前后才花了1年半的时间，特别感谢李老师的耐心指导，让学习有趣又充实！"
+        }
+      ]
+    }
+  ],
+  "brand": [
+    {
+      "tit": "成人教育领域首家上市机构",
+      "img": "./images/about_banner_1.png",
+      "content": "2018年3月23日，尚德机构登录美国纽交所，股票代码STG"
+    },
+    {
+      "tit": "全国自考培训领跑者",
+      "img": "./images/about_banner_2.png",
+      "content": "2003年成立，专注成人学历教育15年"
+    },
+    {
+      "tit": "业务覆盖全国",
+      "img": "./images/about_banner_3.png",
+      "content": "百余城市设立分校，在读学员60万人"
+    },
+    {
+      "tit": "所获荣誉",
+      "img": "./images/about_banner_4.png",
+      "tab": [
+        "中国在线教育十强",
+        "最受信赖职业教育品牌",
+        "年度影响力在线教育品牌",
+        "最具影响力职业教育品牌"
+      ]
+    }
+  ]
+}

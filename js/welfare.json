@@ -1,0 +1,40 @@
+ var welfare = {
+   "conList": [
+   {
+     "type": 0,
+     "name": "专业名称1",
+     "date": "2017年4月卷（真题时间）",
+     "img": "./images/bonus_coupon_1.png"
+   },
+   {
+     "type": 1,
+     "name": "专业名称2",
+     "date": "2017年4月卷（真题时间）",
+     "img": "./images/bonus_coupon_2.png"
+   },
+   {
+     "type": 2,
+     "name": "专业名称3",
+     "date": "2017年4月卷（真题时间）",
+     "img": "./images/bonus_coupon_3.png"
+   },
+   {
+     "type": 3,
+     "name": "专业名称1",
+     "date": "2017年4月卷（真题时间）",
+     "img": "./images/bonus_coupon_4.png"
+   },
+   {
+     "type": 4,
+     "name": "专业名称2",
+     "date": "2017年4月卷（真题时间）",
+     "img": "./images/bonus_coupon_5.png"
+   },
+   {
+     "type": 5,
+     "name": "专业名称3",
+     "date": "2017年4月卷（真题时间）",
+     "img": "./images/bonus_coupon_6.png"
+   }]
+
+ }

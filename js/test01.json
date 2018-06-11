@@ -1,0 +1,258 @@
+var testData ={
+  "text":"已有<span style='color:#FFEE40;'>2323232</span>人通过过测试获得解决方案",
+  "questions": [
+    {
+    "bgImage1": "./images/bg.jpg",
+    "bgImage2": "./images/decro.png",
+    "bgImages":"./images/bgImages.jpg",
+    "titleImage":"./images/title1.png",
+    "arrowImage":"./images/arrowred.png",
+    "contentImage":"./images/base3.png",
+    "progressSrc": "./images/progress1.png",
+    "question": "",
+    "options": [
+      {
+        "id": "A",
+        "score": "1",
+        "content": "从不",
+      },
+      {
+        "id": "B",
+        "score": "2",
+        "content": "偶尔",
+      },
+      {
+        "id": "C",
+        "score": "3",
+        "content": "经常",
+      }
+     
+    ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title2.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title3.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title4.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title5.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title6.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title7.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/title8.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "",
+      "options": [
+        {
+          "id": "A",
+          "score": "1",
+          "content": "从不",
+        },
+        {
+          "id": "B",
+          "score": "2",
+          "content": "偶尔",
+        },
+        {
+          "id": "C",
+          "score": "3",
+          "content": "经常",
+        }
+      ]
+    },
+  ],
+  "results": {
+    "consultText": "万能的咨询师小姐姐已等候多时，来了解一下？",
+    "bgImage": "./images/bg.jpg",
+    "commontext":{
+      "title":"自学考试难吗?",
+      "text":"如果你选择完全自学，自己看书，自己收集历年考题，自己在茫茫书海中寻找考点……那自考确实是很难的。而且，很多的自考生是中途放弃的，所谓的难，不是在考试内容，而是在坚持，难在心态。如果你选择参加辅导班，在老师的辅导和同学的相互鼓励之下，难度会大大降低。不夸张的说，自考算是市面上性价比非常高的全国正规考试了。",
+      "targetText":"马上了解更多自考相关政策"
+    },
+    "lists": [{
+      "question": "测试结果",
+      "answers": [
+        {
+          "consultText": "在线咨询：学历提升详细方案",
+          "bgImage": "./images/bg_result.jpg",
+          "tip": "<p style='font-size: 0.32rem;padding-bottom:0.21rem;color: #6645FF;letter-spacing: 0;text-align: center;'>自学考试难吗？</p>如果你选择完全自学，自己看书，自己收集历年考题，自己在茫茫书海中寻找考点……那自考确实是很难的。而且，很多的自考生是中途放弃的，所谓的难，不是在考试内容，而是在坚持，难在心态。如果你选择参加辅导班，在老师的辅导和同学的相互鼓励之下，难度会大大降低。不夸张的说，自考算是市面上性价比非常高的全国正规考试了。",
+          "lists": [
+            {
+              "score": [8, 13],
+              "content": "你是个领悟稍慢的人，但不要因为暂时的落后灰心丧气。你适合慢慢的消化和积累，坚持下去，你的学习效果甚至会超越他人。在自考学习中，你需要的是一个领路人，全程指引你的学习方法，帮你坚定信心走到最后"
+            },
+            {
+              "score": [14, 20],
+              "content": "你是个对事情很有耐心的人，有种锲而不舍的精神，这种特质会让你收获意想不到的成功，所以要本着这种精神继续哦。在自考学习中，你需要的是过来人或者前辈的辅助，如果能掌握更多的资料信息，你会如虎添翼"
+            },
+            {
+              "score": [21, 24],
+              "content": "你是个头脑聪明、反应力强的人，对于学习，你只要肯下功夫就会有效果。不过切忌骄傲浮躁，才能发挥学霸风采。在自考学习中，你需要的是一个监督者督促你保持学习习惯，只有专注才能激发你的潜力"
+            },
+      
+          ]
+        }
+      ]
+    }
+    ]
+  },
+
+}

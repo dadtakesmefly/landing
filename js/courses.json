@@ -1,0 +1,36 @@
+ var courses = {
+  "conList": [
+    {
+      "type": 1,
+      "name": "专业名称1",
+      "bgimg": "./images/curriculum_1.png",
+      "src": "http://p.sunlands.com/player-war/pt_uc/newLive/gotoJoinReplay.action?serverName=sunlands&userId=19274568&teachUnitId=305542&encryptStr=c01f71e84ac0baaa5eb53f9b3e3e592d&timeMillis=1524138338471&mobile=13426007853&requestPath=admin&userName=%25E8%2580%2581%25E5%25B8%2588_%25E7%258E%258B%25E6%25A2%25A6%25E5%25AA%259B",
+      "id": 1
+    },
+    {
+      "type": 2,
+      "name": "专业名称2",
+      "bgimg": "./images/curriculum_2.png",
+      "src": "http://p.sunlands.com/player-war/pt_uc/newLive/gotoJoinReplay.action?serverName=sunlands&userId=14317650&teachUnitId=312843&encryptStr=21d1227926af73b4bb9c7dcc66e89c29&timeMillis=1526009444081&mobile=13426007853&requestPath=admin&userName=%25E8%2580%2581%25E5%25B8%2588_%25E7%258E%258B%25E6%25A2%25A6%25E5%25AA%259B",
+      "id": 2
+    },
+    {
+      "type": 3,
+      "name": "专业名称3",
+      "bgimg": "./images/curriculum_3.png",
+      "src": "http://p.sunlands.com/player-war/pt_uc/newLive/gotoJoinReplay.action?serverName=sunlands&userId=12108379&teachUnitId=339806&encryptStr=16979547f5ab51f45d9edbf6d25db739&timeMillis=1526009868493&mobile=13426007853&requestPath=admin&userName=%25E8%2580%2581%25E5%25B8%2588_%25E7%258E%258B%25E6%25A2%25A6%25E5%25AA%259B",
+      "id": 3
+    },
+    {
+      "type": 4,
+      "name": "专业名称4",
+      "bgimg": "./images/curriculum_4.png",
+      "src": "http://p.sunlands.com/player-war/pt_uc/newLive/gotoJoinReplay.action?serverName=sunlands&userId=10571923&teachUnitId=287633&encryptStr=f6cbcffe1b1128c653bf3cf5c06e0e43&timeMillis=1524137783143&mobile=13426007853&requestPath=admin&userName=%25E8%2580%2581%25E5%25B8%2588_%25E7%258E%258B%25E6%25A2%25A6%25E5%25AA%259B",
+      "id": 4
+    },
+  ],
+  "tit": "实验课程",
+  "gameTitle": "小游戏",
+  "gameType": 0,
+  "gameimg": "./images/home_test.png"
+}

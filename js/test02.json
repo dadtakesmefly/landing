@@ -1,0 +1,108 @@
+var testData = {
+  "text": "已有<span style='color:#FFEE40;'>49204</span>人通过过测试获得解决方案",
+  "questions": [
+    {
+      "bgImage": "./images/bg.jpg",
+      "progressSrc": "./images/1.png",
+      "question": "以下有你希望从事的职业吗?",
+      "options": [
+        {
+          "id": "f1",
+          "unSelBgImg": "./images/a_unselected.png",
+          "selBgImg": "./images/a_selected.png",
+          "content": "教师",
+        },
+        {
+          "id": "f2",
+          "unSelBgImg": "./images/b_unselected.png",
+          "selBgImg": "./images/b_selected.png",
+          "content": "财会",
+        },
+        {
+          "id": "f3",
+          "unSelBgImg": "./images/c_unselected.png",
+          "selBgImg": "./images/c_selected.png",
+          "content": "文秘/行政",
+        },
+        {
+          "id": "f4",
+          "unSelBgImg": "./images/d_unselected.png",
+          "selBgImg": "./images/d_selected.png",
+          "content": "人力资源",
+        },
+        {
+          "id": "f5",
+          "unSelBgImg": "./images/e_unselected.png",
+          "selBgImg": "./images/e_selected.png",
+          "content": "没有",
+        }
+      ]
+    },
+    {
+      "bgImage": "./images/bg.jpg",
+      "question": "以下有你希望从事的职业吗?",
+      "options": [
+        {
+          "id": "g1",
+          "unSelBgImg": "./images/a_unselected.png",
+          "selBgImg": "./images/a_selected.png",
+          "content": "IT/互联网",
+        },
+        {
+          "id": "g2",
+          "unSelBgImg": "./images/b_unselected.png",
+          "selBgImg": "./images/b_selected.png",
+          "content": "法律行业",
+        },
+        {
+          "id": "g3",
+          "unSelBgImg": "./images/c_unselected.png",
+          "selBgImg": "./images/c_selected.png",
+          "content": "广告行业",
+        },
+        {
+          "id": "g4",
+          "unSelBgImg": "./images/d_unselected.png",
+          "selBgImg": "./images/d_selected.png",
+          "content": "银行/证券/金融行业",
+        },
+        {
+          "id": "g5",
+          "unSelBgImg": "./images/e_unselected.png",
+          "selBgImg": "./images/e_selected.png",
+          "content": "没有",
+        }
+      ]
+    }
+  ],
+  "results":
+  {
+    "consultText": "在线咨询：学历提升详细方案",
+    "tip": {
+      "title": "专业选择很纠结怎么办?",
+      "contentList": [
+        {
+          "content": "近几年自考改革多达67项，综合来看，考名校的学生，真的需要赶紧开始了。改革引发科目变动，需要尽量在变动前考试。科目变动和停考是考生最大的风险。",
+          "linkContent": "有哪些政策比较稳定的老科目?"
+        },
+        {
+          "content": "为了能保证学员在学习中的权益，尚德机构限额推出《政策保障班》（除北京地区外）。凡报名此班的同学，在基础服务期内，如主管部门发布政策导致您报读的专业停止招生或无法继续报考，在您尚未报考过任意一门课程的前提下， 您可以在基础服务期内提出退费。",
+          "linkContent": "了解政策保障班"
+        }
+      ]
+    },
+    "answers": {
+      "f1": "你可以选择学前教育、汉语言文学专业，考试易过，越老越吃香",
+      "f2": "你可以选择会计专业，专业度高，收入稳定",
+      "f3": "你可以选择行政管理、工商企业管理、项目管理、英语专业，专业度高，就业面广泛",
+      "f4": "你可以选择人力资源管理专业，专业度高，企业对该职位需求广泛",
+      "f5": "抱歉，系统测试没有猜中你想要学的专业",
+      "g1": "你可以选择计算机信息管理、项目管理专业，行业前景好，未来收入可观",
+      "g2": "你可以选择法律专业，专业度高，收入稳定",
+      "g3": "你可以选择广告学专业，专业度高，就业面广泛",
+      "g4": "你可以选择金融学专业，行业前景好，未来收入可观",
+      "g5": "抱歉，系统测试没有猜中你想要学的专业"
+    },
+    "noAnswer": "马上在线咨询如何选择专业"
+  }
+}

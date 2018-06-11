@@ -1,0 +1,118 @@
+var testData ={
+  "text":"已有<span style='color:#FFEE40;'>2323232</span>人通过过测试获得解决方案",
+  "questions": [{
+    "bgImage1": "./images/bg.jpg",
+    "bgImage2": "./images/decro.png",
+    "bgImages":"./images/bgImages.jpg",
+    "titleImage":"./images/base_title.png",
+    "arrowImage":"./images/arrowred.png",
+    "contentImage":"./images/base4.png",
+    "progressSrc": "./images/progress1.png",
+    "question": "你当前的学历",
+    "options": [{
+      "id": "a1",
+      "content": "高中以下"
+    },
+      {
+        "id": "a2",
+        "content": "高中"
+      },
+      {
+        "id": "a3",
+        "content": "大专及以上"
+      },
+      {
+        "id": "a4",
+        "content": "本科及以上"
+      }
+    ]
+  },
+    {
+      "bgImage1": "./images/bg.jpg",
+      "bgImage2": "./images/decro.png",
+      "bgImages":"./images/bgImages.jpg",
+      "titleImage":"./images/base_title.png",
+      "arrowImage":"./images/arrowred.png",
+      "contentImage":"./images/base3.png",
+      "progressSrc": "./images/progress2.png",
+      "question": "你想获得的学历",
+      "options": [{
+        "id": "b1",
+        "content": "大专",
+        "conditions": ["a1", "a2"]
+      },
+        {
+          "id": "b2",
+          "content": "本科",
+          "conditions": ["a1", "a2","a3"]
+        },
+        {
+          "id": "b3",
+          "content": "硕士研究生",
+          "conditions": ["a1", "a2","a3","a4"]
+        },
+      ]
+    },
+  ],
+  "results": {
+    "consultText": "万能的咨询师小姐姐已等候多时，来了解一下？",
+    "bgImage": "./images/bg.jpg",
+    "commontext":{
+      "title":"什么是自考?",
+      "text":"1988年，《中华人民共和国高等教育法》规定：“国家实行高等教育自学考试制度”，以法律形式确定自学考试是我国高等教育的基本制度之一。自学考试学习方式灵活、费用低，实行“宽进严出”，“教考分离”，凡中华人民共和国16周岁以上公民，均可参加自学考试，合格者准予毕业取得相应毕业证书，国家承认其学历。",
+      "targetText":"马上了解更多自考相关政策"
+    },
+    "lists": [{
+      "question": "测试结果",
+      "answers": [
+          {
+        "contents": "你可以通过自考大专提升学历，学习方式自由，考证快",
+        "contentsBgImage":"./images/base_result1.png",
+        "conditions": [
+          ["a1", "b1"],
+          ["a2", "b1"],
+        ]
+      },
+      {
+        "contents": "你可以通过自考专本连续提升学历，快速考证，省学费",
+        "contentsBgImage":"./images/base_result1.png",
+        "conditions": [
+          ["a1", "b2"],
+          ["a2", "b2"],
+        ]
+      },
+      {
+        "contents": "你可以通过自考大专获得专科学历，毕业后工作5年后报考硕士研究生，或者先通过自考本科获得本科学历，再考虑报考研究生",
+        "contentsBgImage":"./images/base_result1.png",
+        "conditions": [
+          ["a1", "b3"],
+          ["a2", "b3"],
+        ]
+      },
+      {
+        "contents": "你可以通过自考本科提升学历",
+        "contentsBgImage":"./images/base_result1.png",
+        "conditions": [
+          ["a3", "b2"],
+        ]
+      },
+      {
+        "contents": "你可以在大专毕业后工作5年或5年以上，报考硕士研究生",
+        "contentsBgImage":"./images/base_result1.png",
+        "conditions": [
+          ["a3", "b3"],
+        ]
+      },
+      {
+        "contents": "你可以直接报考硕士研究生",
+        "contentsBgImage":"./images/base_result1.png",
+        "conditions": [
+          ["a4", "b3"],
+        ]
+      }
+      ]
+    }
+    ]
+  },
+
+}

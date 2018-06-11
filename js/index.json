@@ -1,0 +1,213 @@
+var homeData = {
+  "tit": "尚德机构",
+  "imgList": [
+    {
+      "url": "./images/576575268005031550.png",
+      "component": "ArticleDetail",
+      "id": 1001
+    },
+    {
+      "url": "./images/1526397406.jpg",
+      "component": "ArticleDetail",
+      "id": 1002
+    },
+    {
+      "url": "./images/1526397383.jpg",
+      "component": "ArticleDetail",
+      "id": 1003
+    }
+  ],
+  "buttonImgList":[
+    {
+      "imgUrl":"./images/ic_signupprogress.png",
+      "text":"报考流程",
+      "id": 1005
+    },
+    {
+      "imgUrl":"./images/ic_signupcondition.png",
+      "text":"报考条件",
+      "id": 1005
+    },
+    {
+      "imgUrl":"./images/ic_signuppfee.png",
+      "text":"报考时间",
+      "id": 1005
+    },
+    {
+      "imgUrl":"./images/ic_gracondition.png",
+      "text":"毕业条件",
+      "id": 1005
+    }
+  ],
+  "testContent": {
+    "title": "测一测，我如何快速提升学历",
+    "process": "1/7题",
+    "question": "1.你想获得的学历是？",
+    "options": [
+    {
+      "id": "d1",
+      "unSelectImg": "./images/selection_a.png",
+      "selectedImg": "./images/selection_a_chosen.png",
+      "showImg": "./images/selection_a.png",
+      "content": "大专",
+      "conditions": []
+    },
+    {
+      "id": "d2",
+      "unSelectImg": "./images/selection_b.png",
+      "selectedImg": "./images/selection_b_chosen.png",
+      "showImg": "./images/selection_b.png",
+      "content": "本科",
+      "conditions": []
+    },
+    {
+      "id": "d3",
+      "unSelectImg": "./images/selection_c.png",
+      "selectedImg": "./images/selection_c_chosen.png",
+      "showImg": "./images/selection_c.png",
+      "content": "硕士研究生",
+      "conditions": []
+    }]
+  },
+  "tryListen":["./images/test1_listen.png","./images/test2_listen.png","./images/test3_listen.png"],
+  "cardList": [
+    {
+      "randomCard": "",
+      "randomList": [
+        {
+          "id": 1004,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1003,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1002,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_about.png"
+        },
+        {
+          "id": 1001,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        }
+      ]
+    },
+    {
+      "randomCard": "",
+      "randomList": [
+        {
+          "id": 1004,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1003,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1002,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_about.png"
+        },
+        {
+          "id": 1001,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        }
+      ]
+    },
+    {
+      "randomCard": "",
+      "randomList": [
+        {
+          "id": 1004,
+          "type": "article",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1003,
+          "type": "article",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1002,
+          "type": "article",
+          "imgUrl": "./images/home_about.png"
+        },
+        {
+          "id": 1001,
+          "type": "article",
+          "imgUrl": "./images/home_major.png"
+        }
+      ]
+    },
+    {
+      "randomCard": "",
+      "randomList": [
+        {
+          "id": 1004,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1003,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        },
+        {
+          "id": 1002,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_about.png"
+        },
+        {
+          "id": 1001,
+          "type": "xiaoneng",
+          "imgUrl": "./images/home_major.png"
+        }
+      ]
+    }
+  ],
+  "dialogList": [
+    {
+      "titleText": "登录后即可预约",
+      "buttonText": "完成预约"
+    },
+    {
+      "titleText": "登录后即可预约",
+      "buttonText": "完成预约"
+    },
+    {
+      "titleText": "登录后即可申请",
+      "buttonText": "完成申请"
+    }
+  ],
+  "questionList": [
+    {
+      "id": 1001
+    },
+    {
+      "id": 1001
+    },
+    {
+      "id": 1001
+    },
+    {
+      "id": 1001
+    }
+  ],
+  "leftimg": "./images/home_major.png",
+  "rightimg": "./images/home_about.png",
+  "banner": "./images/banner01.png",
+  "bottomImgList": [
+    "./images/foot-card1.png",
+  ],
+  "footBanner": {
+      "imgUrl": "./images/foot_banner.png",
+      "url": "https://www.baidu.com"
+  }
+}

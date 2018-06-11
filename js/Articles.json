@@ -1,0 +1,3023 @@
+var articleData = {
+  "list": [
+    {
+      "id": 1005,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "你好，这里是尚德机构。",
+      "msgShow": "0",
+      "message": "",
+      "tag": "尚德机构",
+      "author": "",
+      "time": "2018-5-11",
+      "read": "12.6k",
+      "comment": "477",
+      "click": "132",
+      "image": "./images/sd-1.png ",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当走在繁华的街头，或穿梭在人流如织的地铁中，人们往往对一块块写有“学习是一种信仰”的广告牌并不感到陌生，但对于广告的发布者——尚德机构，很多人却并不了解。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其实，这个创立于2003年的培训机构，正是凭借着一种执着信仰和追求，才能在短短时间里创造出了很多行业的奇迹；<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾经在美国投资了苹果这样伟大公司的著名投资机构——经纬创投，早在2011年就看好尚德机构并为此“下了注”；现如今，尚德机构的业务已覆盖全国多个城市。2014年6月尚德机构以“壮士断臂”的决心，彻底转型互联网。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是信仰，让尚德机构走到了今天；同样，它也在用的信仰的力量回馈社会、造福学员。在尚德机构培养的学员中，很多人因此改变了命运，还有一些人成为了精英或是行业内的佼佼者。 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尚德机构成立于2003年，在公司初创的头5年里，尚德机构砥砺前行，不断扩大业务范围，慢慢形成了包括职业资格证书培训、学历培训和IT培训在内的三大主营业务。",
+          "btnText": "更多主考院校信息",
+          "btnShow": "0"
+        },
+        {
+          "title": "尚德机构发展历程",
+          "image": " ./images/sd-2.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "点击领取免费试听课程",
+          "btnShow": "0"
+        },
+        {
+          "title": "尚德机构获得荣誉",
+          "image": " ./images/sd-3.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "1"
+        },
+
+        {
+          "title": "",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京时间3月23日，中国在线学历教育和职业教育的领导者——尚德在线教育集团（纽约证券交易所代码：STG）公开宣布定价发行1300万股美国存托股票(ADSs)，每25股ADS对应一股A类普通股，每股ADS定价11.5美元，募集金额总计14950万美元。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据艾瑞咨询的数据显示，就2017年度毛收入而言，尚德机构是中国最大的在线学历教育和职业教育服务提供商。尚德机构通过在线平台提供各种学位和文凭课程及在线专业课程和教育内容，以帮助学生准备专业认证考试及学习专业技能。学生可以通过PC端或移动应用程序端学习课程。",
+          "btnText": "专业推荐：简单好考从业广",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-4.png ",
+          "imgWidth": "100",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尚德机构的在线平台旨在构建虚拟学习社区和庞大的、以学生学习习惯为导向的教育内容库，并以此营造个性化的、交互式学习环境。在教学研究与开发方面，尚德机构创新性地将主题内容融入到自有知识系统——“知识树”中，对潜在学生的教育需求有深刻了解，并积极提供帮助其实现目标的解决方案。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教育的核心目的是激励创新和创造思想。尚德机构创始人欧蓬希望鼓励和支持公司未来的教师传播知识和思想，研究和创新，促进科学和人文。同时，加强公司的领导，实现教育的核心目标，要求激励公司中最聪明的人探索和扩大自己所知的范围。",
+          "btnText": "2018尚德培训报名通道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-5.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德培训报名通道",
+          "btnShow": "1"
+        },
+        {
+          "title": "师资介绍",
+          "image": " ./images/sd-6.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t1.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t2.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t3.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t4.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t5.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t6.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t7.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t8.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t9.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-t10.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "点击获取：名师公开课试听机会",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": " ",
+          "imgWidth": "",
+          "content": "我们始终相信“学习是一种信仰”<br/>致力于通过学习帮助学员改变命运<br/>助力他们实现自己的人生梦想——<br/>学历提升，升职加薪...... <br/><br/>我们希望通过这些努力<br/>不断地去影响和改变更多的人<br/>于沉睡时唤醒，于迷茫时指引<br/>为国家和社会的进步贡献出自己的一份力量",
+          "btnText": "点击领取1000元尚德优惠券",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/sd-7.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "点击领取1000元尚德优惠券",
+          "btnShow": "1"
+        }
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-1.png",
+            "name": "Book",
+            "content": "多读书可以开阔眼界",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-6.png",
+            "name": "Alice",
+            "content": "有什么好书推荐吗",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-11.png",
+            "name": "babyy",
+            "content": "前几天读了《三体》，没点文化都看不懂",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 1004,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "自考最全专业解析",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又到了自考的报考季，你是否了解自考？是否参加过自考？是否知道在中国，有成千上万人因为自考改变命运？今天，尚德君就为大家讲解自考专业，认真看完，你一定会找到自己喜欢的专业。",
+      "tag": "自考答疑",
+      "author": "",
+      "time": "2018-5-11",
+      "read": "12.6k",
+      "comment": "477",
+      "click": "132",
+      "image": "./images/zy-1.png",
+      "imgShow": "0",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "汉语言文学",
+        "image": " ./images/zy-1.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科1.5年、本科1.5年；<br/><br/>学习内容：<br/>中外文学选读、中外文学作品、古代汉语、美学、逻辑学、心理学等<br/><br/>专业优势: <br/>1.最简单的专业：题型最简单，内容最简单；<br/>2.考证最快：1.5年就能修完，没有比它更快的专业；<br/>3.就业面最广，文职类均能胜任；<br/><br/>适合人群：<br/>1.任意行业，想快速获取学历的人；<br/>2.各类文职类工作，如文案、编辑、行政人力等；<br/>3.教师、事业单位、公务员等。",
+        "btnText": "更多主考院校信息",
+        "btnShow": "0"
+      },
+      {
+        "title": "行政管理",
+        "image": " ./images/zy-2.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科1.5年、本科1.5年；<br/><br/>学习内容：<br/>经济学、现代管理学、心理学、领导科学、公务员、人力资源管理、企业管理概论、行政管理学等<br/><br/>专业优势: <br/>1.简单好过，不考英语数学，完全没有计算题；<br/>2.名校学历，含金量高，社会、企业高度认可；<br/>3.考证快，1.5年即可修完；<br/>4.就业方向广，晋升管理层快，公务员对口专业。<br/><br/>适合人群：<br/>1.国企，私企：人力、行政、文秘、白领等职能岗；<br/>2.政府、机关、公务员（面宽，可选岗位多）；<br/>3.其他：销售、记者、保险等。",
+        "btnText": "点击领取免费试听课程",
+        "btnShow": "0"
+      },
+      {
+        "title": "会计",
+        "image": " ./images/zy-3.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科1.5年、本科2年；<br/><br/>学习内容：<br/>会计学、审计学、财务管理、商业银行经营、微观/宏观经济学、国际金融与贸易、经济法、税法<br/><br/>专业优势: <br/>名校学历，与财务、会计、银行等金融行业对口，高薪回报行业。<br/><br/>就业方向：<br/>就业面最广，任何行业、企业都需要会计职业。<br/><br/>适合人群：<br/>1.财务工作：包括出纳、会计，工作稳定；<br/>2.审计：财务体系健全的公司都有审计，会计事务所也需要审计，待遇较好；<br/>3.税务：属于政府机关，被国家供养的岗位，公务员。",
+        "btnText": "专业推荐：简单好考从业广",
+        "btnShow": "1"
+      },
+      {
+        "title": "工商企业管理",
+        "image": " ./images/zy-4.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科2年、本科1.5年；<br/><br/>专业优势: <br/>1.简单好过，难度低，只从题库抽题；<br/>2.知识面广：人力、市场营销、财务、运营、法律、行政、经济学、金融学、管理学；<br/>3.工科类的管理专业：偏理工的管理专业，面向懂技术的管理层发展，全面提高管理能力、领导能力、逻辑思维能力、资金运营能力、战略开发能力；<br/>4.最容易深造MBA的专业，既可以往人力、行政、金融、财务、运营发展，也可以继续深造MBA或者往公司的中高层发展。<br/><br/>就业方向：<br/>1.企业：可从事人力、财务、销售、行政等部门的工作；<br/>2.银行、证券、保险、金融、经济、财务类方向；<br/>3.政府机关、公务员，从事综合经济管理工作；<br/>4.工程、机电类工作，可凭借技术能力晋升管理层",
+        "btnText": "点击立即报名尚德",
+        "btnShow": "0"
+      },
+      {
+        "title": "法律",
+        "image": " ./images/zy-5.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科1.5年、本科2年；<br/><br/>学习内容：<br/>1.法律基础：法理学、宪法、中国法制史；<br/>2.各行业专用法：金融法、经济法、知识产权法等；<br/>3.诉讼过程：民生诉讼、刑事诉讼、行政诉讼。<br/><br/>专业优势: <br/>1.通过率高：法律是纯文科，以选择题为主，大题写对关键点就给分；<br/>2.薪资高，年纪越大越吃香，5年以上律师基本月薪1—3万；<br/>3.社会地位高，人人尊敬； 4.公务员热门专业，能报考80%岗位，晋升有优势。<br/><br/>就业方向：<br/>1.律师事务所，从事律师或者律师助理；<br/>2.企业、事业单位法务部（高薪、白领）；<br/>3.政府机关、公务员、法院、检察院等。",
+        "btnText": "免费获取个人学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "英语",
+        "image": " ./images/zy-6.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科2年、本科2年；<br/><br/>学习内容：<br/>听力、口语、阅读、写作、翻译技能、英美文学、外贸、英语文化<br/><br/>专业优势: <br/>1.考证快：2年可申请毕业<br/>2.考试简单，英语考试大多以选择题为主；<br/>3.升职加薪容易，不论任何行业，学会英语自我价值涨幅大<br/><br/>就业方向：<br/>1.贸易公司、外商投资企业、涉外企业；<br/>2.翻译（笔译、口译、高薪行业）；<br/>3.跨国公司、外贸金融、海关；<br/>4.政府机关及外企、国企均认可英语专业毕业生。",
+        "btnText": "主考院校专业查询中心",
+        "btnShow": "1"
+      },
+      {
+        "title": "金融学",
+        "image": " ./images/zy-7.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科2.5年、本科2年；<br/><br/>学习内容：<br/>1.经济学<br/>2.宏观金融（货币、银行、国际金融、汇率、财务）<br/>3.微观金融（金融衍生品、基金、证券投资管理）<br/>4.金融实操：金融衍生品、基金、证券投资管理<br/><br/>专业优势: <br/>名校学历，当下薪资最高的专业<br/><br/>就业方向：<br/>1.银行：中央银行、商业银行、投资银行；<br/>2.证券、基金公司、信托投资公司；<br/> 3.上市股份公司证券部、财务部、资产管理公司；<br/>4.政府金融部门：人民银行、证监会、保监会、金管局。",
+        "btnText": "免费获取个人学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "学前教育",
+        "image": " ./images/zy-8.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>本科2年<br/><br/>学习内容：<br/>1.婴幼儿睡眠、健康、心理、饮食、疾病预防；<br/>2.哈佛大学8大智能开发（家庭教育、早教机构实操）；<br/>3.南加州大学“感官统合”技能提升特训；<br/>4.蒙氏教育五大领域训练法。<br/><br/>专业优势: <br/>1.国家扶持专业，考试简单，通过率高；<br/>2.学习实用技能，既有利于就业发展，也有利于家庭育儿；<br/>3.薪资高，发展好，早教是目前利润最高，需求最强的行业。<br/><br/>就业方向：<br/>1.公办幼儿园，取得编制后相当于公务员；<br/>2.早教机构，薪资高、放假多，但技能要求较高；<br/>3.创业，提供早教服务，开发市场需求和产品，经营公司。",
+        "btnText": "免费获取个人学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "市场营销",
+        "image": " ./images/zy-9.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科2年，本科2年<br/><br/>专业优势: <br/>1.简单好过，难度低，只从题库抽题；<br/>2.知识面广：管理学、经济学、消费者行为学、营销创新、促销管理、商务礼仪、商务谈判等；<br/>3.工科类管理专业：偏理工的管理专业，晋升快；<br/><br/>就业方向：<br/>1.企业：企业中从事市场营销与管理、品牌策划与推广；<br/>2.科研：从事工商教学、科研方面的工作；<br/>3.管理层发展：市场营销专业人才更容易进入各行各业的高级管理层。",
+        "btnText": "免费获取个人学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "人力资源管理",
+        "image": " ./images/zy-10.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科1.5年，本科1.5年<br/><br/>专业优势: <br/>1.简单好过，难度低；<br/>2、培训与开发、薪酬绩效管理、员工关系等六大模块知识；<br/>3.就业容易、薪资高：人力资源是需求最旺盛的行业，薪资位于国家前三名；<br/>4.工作压力小，社会地位高：上班时间固定，办公室白领，在公司地位举足轻重。<br/><br/>就业方向：<br/>1.企业：直接面向人力资源部，工作稳定，薪资高；<br/>2.管理咨询公司：高薪，接外包项目（招聘、培训等）；<br/>3.政府机关、公务员，从事政府综合人事管理工作；<br/>4.公立学校、培训机构：从事人力资源教师工作。",
+        "btnText": "免费获取个人学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "计算机信息管理",
+        "image": " ./images/zy-11.png ",
+        "imgWidth": "100",
+        "content": "考试通过所有科目时间：<br/>专科2年，本科2年<br/><br/>学习内容：<br/>1.数据结构导论、运筹学基础<br/>2.信息资源管理<br/>3.软件开发工具<br/>4.C++程序设计<br/><br/>专业优势: <br/>名校学历，实用性强好就业，当下薪资最高的专业。<br/><br/>就业方向：<br/>主要面向商业、贸易、金融、网络等企业，从事网络应用、硬件组装与维修、软件开发、系统维护、信息统计分析与处理、数据库系统与应用、管理学基础、网站设计与维护、电子商务等工作。另外可以从事各类企事业单位从事计算机信息管理工作。",
+        "btnText": "点击获取限额免费课程",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-1.png",
+            "name": "Book",
+            "content": "多读书可以开阔眼界",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-6.png",
+            "name": "Alice",
+            "content": "有什么好书推荐吗",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-11.png",
+            "name": "babyy",
+            "content": "前几天读了《三体》，没点文化都看不懂",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+
+    {
+      "id": 1001,
+      "type": 0,
+      "feeds_show": 0,
+      "title": "重磅！！！全国十大热门自考专业最全解读",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考新闻",
+      "author": "",
+      "time": "",
+      "read": "12.6k",
+      "comment": "188",
+      "click": "102",
+      "image": "./images/b1-0.png ",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我们都渴望拥有更多的自由、去看更大的世界，做命运的主人，而现实社会却把我们击得粉碎。学历一般、能力平平，薪水低微，难以支起心中的梦想。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们这个时代，不仅是看脸的时代，也是拼能力、拼学历的时代。我们来到世上，选择不了身世，选择不了性别，选择不了地位，但“学历”和“薪水”是可以通过我们自己的努力来改变的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哪怕你只有小学文凭，哪怕你已经离开校园数十载，学历提升的机会对每个人都是平等的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想要改变现状，提升学历或许是你最好的选择。Lily姐给大家带来了全国十大热门自考专业全方位解读，希望大家结合自身优势和就业方向，找到适合自己的专业，早日拿到更高的学历，遇见更好的自己！ ",
+        "btnText": "在线答疑;本科学历提升方案",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-1.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-2.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-3.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-4.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-5.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-6.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-7.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-8.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-9.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-10.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b1-11.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线答疑",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ",
+        "imgWidth": "",
+        "content": "注意：<br/>每个专业除了以上专业课以外，还有以下几门公共课：<br/>专科·公共课：思想道德修养与法律基础| 毛泽东思想和中国特色社会主义理论体系概论| 大学语文<br/>本科·公共课：中国近代史纲要| 马克思主义基本原理概论<br/><br/>总有一种努力会改变，总有一份幸运会降临！“点亮”、“重塑”，未来你的必将感谢现在的选择！",
+        "btnText": "在线答疑",
+        "btnShow": "0"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-4.png",
+            "name": " 小星星",
+            "content": "我的专业在热门专业范围内哎。",
+            "time": "30分钟前"
+          },
+          {
+            "url": "./images/touxiang-5.png",
+            "name": "大象的耳朵像蒲扇",
+            "content": "当初我妈让我学汉语言我没听，结果现在后悔了",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-6.png",
+            "name": "爱是你我",
+            "content": "重新选择专业还来得及么，阔怕。",
+            "time": "2小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 1002,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "别让学历限制了你的想象力！",
+      "msgShow": "0",
+      "message": "",
+      "tag": "尚德在线自考中心",
+      "author": "lily姐",
+      "time": "",
+      "read": "12.6k",
+      "comment": "61",
+      "click": "328",
+      "image": "",
+      "imgShow": "0",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "你经历过这些吗?<br/>想找个好工作，可是学历不够<br/>想报考公务员，可是学历没达标<br/>想报教师资格考试，可是有学历限制<br/>想职位得到晋升，可是要求本科文凭<br/>想在城市人才落户，可是学历太低没资格<br/>……",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-1.png ",
+        "imgWidth": "100",
+        "content": "每当填写表格的时候，<br/>学历那栏总是那么尴尬。<br/>我知道，学历不够的你，<br/>或许总是有些遗憾！<br/><br/>很多人都在讨论：<br/>学历和能力到底哪个更重要？ <br/>其实能力与学历的关系，<br/>不是加法，而是乘法，<br/>学历是获得能力展示机会的前提。",
+        "btnText": "学历提升咨询通道",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-2.png ",
+        "imgWidth": "100",
+        "content": "在国内，<br/>拥有一个985、211名校的学历，<br/>不能说明个人素质、能力、未来成就一定高，<br/>但至少得承认此人要么学习能力强、<br/>要么天资聪颖、要么勤劳刻苦吧。<br/><br/>有人抱怨说：<br/>一场高考决定了一个人87%的人生方向，<br/>因为对于毕业生来说，<br/>学历是很好的求职敲门砖，<br/>可以比很多人有一个更高的起点。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-3.png ",
+        "imgWidth": "100",
+        "content": "也经常听人抱怨说：<br/>自己能力不差只是没有机遇、<br/>没有好爹、没有关系；<br/>自己的能力不比那些高学历的人差……",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-4.png ",
+        "imgWidth": "100",
+        "content": "可是，那又怎样? <br/>现在每年中国高校毕业人数<br/>已经达到900多万<br/><br/>有能力有学历的人一抓一大把<br/>想要进入500强企业<br/><br/>有学历又有能力的人都开始排起了队；<br/>而学历不够<br/>可能连让HR看到你简历的机会都没有！",
+        "btnText": "专属你的学历提升方案",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-5.png ",
+        "imgWidth": "100",
+        "content": "现在学历几乎成为企业招人的首要条件<br/><br/>这个世界很现实！<br/>如果你缺一张文凭，<br/>即使你有和别人同等的能力，<br/>在晋职加薪的时候也会直接被刷掉。<br/><br/>上帝为你关上一扇门，<br/>通过自考来提升学历，<br/>或将是你最好的选择。",
+        "btnText": "专属你的学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-6.png ",
+        "imgWidth": "100",
+        "content": "根据自考生的反馈：<br/>70%以上认为，<br/>自考文凭确实能增强工作自信心；<br/>57%的毕业生毕业后薪水比以前有所提高；<br/>38%的毕业生获得了职位提升；<br/>40%的毕业生毕业后担任了管理职位。",
+        "btnText": "专属你的学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-7.png ",
+        "imgWidth": "100",
+        "content": "如果你确信自己不是天才，<br/>只是一个平凡人，<br/>学历是非常重要的，<br/>不要被那些学历无用论毒害了自己；<br/>不要老拿比尔盖茨来反驳，<br/>因为他是天才，<br/>也是个例。",
+        "btnText": "专属你的学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/b2-7.png ",
+        "imgWidth": "100",
+        "content": "在这个我们最该努力、<br/>最该吃苦的时候，<br/>千万不要选择安逸，<br/>没有谁的青春是在红地毯上走过。<br/><br/>一定要多读书、<br/>多学习、提升自己，<br/>这样你的人生才不会荒废<br/>赶快来进修学历吧！",
+        "btnText": "点击查看更多学历提升资讯",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-1.png",
+            "name": "点灯的星星",
+            "content": "说的真好。",
+            "time": "8分钟前"
+          },
+          {
+            "url": "./images/touxiang-2.png",
+            "name": "wjgj",
+            "content": "作者说的对，天才还在努力学习，我们更要时刻努力",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-3.png",
+            "name": "94521",
+            "content": "天才还是少数，大部分的成功人士都是靠后天的不断学习有所成就的",
+            "time": "2小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 1003,
+      "type": 0,
+      "feeds_show": 0,
+      "title": "【通知】 2018年十月自考报名时间已出炉！",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 四月份的考试刚过去没多久,十月份的考试马上就要开始报名了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下是部分已经发布十月考试简章的地区,大家要仔细阅读,注意考试报名时间.",
+      "tag": "学姐说自考",
+      "author": "贼贼",
+      "time": "2018-5-7",
+      "read": "12.6k",
+      "comment": "157",
+      "click": "56",
+      "image": "",
+      "imgShow": "0",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "",
+          "image": "./images/b3-1.png ",
+          "imgWidth": "100",
+          "content": "注册时间：新生常年注册 <br/>现场确认截止时间：2018年9月7日。(具体时间以各地教育考试机构在“考生服务平台”上公布的时间为准) <br/>网上报考截止时间：2018年9月11日。<br/><br/>考试时间：<br/>10月20-21日",
+          "btnText": "",
+          "btnShow": ""
+        },
+
+        {
+          "title": "",
+          "image": "./images/b3-2.png ",
+          "imgWidth": "100",
+          "content": "理论课程网上报名、网上支付时间：<br/>2018年6月10日-15日，每天8:00-22:00; <br/>考生现场注册时间：<br/>2018年6月10日-15日，每天8:30-11:30，14:00-17:30。<br/>实践性环节课程网上报名时间：<br/>2018年5月20日-25日，每天8:00-22:00 ",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-3.png ",
+          "imgWidth": "100",
+          "content": "新考生注册时间：2018年6月19日-21日<br/>现场信息确认时间：2018年6月21日-22日<br/>现场确认地址：各市考办指定地点。<br/>考生报名时间：2018年6月19-25日。<br/>补报名时间：2018年8月1日-3日(限已取得准考证号且未报名的考生）<br/><br/>考试时间：<br/>10月20日-21日",
+          "btnText": "",
+          "btnShow": ""
+        },
+
+        {
+          "title": "",
+          "image": "./images/b3-4.png ",
+          "imgWidth": "100",
+          "content": "报考时间：<br/>9月5日8∶00-14日  18∶00<br/><br/>考试时间：<br/>10月20日-21日",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-5.png ",
+          "imgWidth": "100",
+          "content": "报考时间：<br/>2018年9月3日0:00-9月12日 24:00<br/><br/>考试时间：<br/>10月21日-22日",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-6.png ",
+          "imgWidth": "100",
+          "content": "报名时间：<br/>9月1-5日新生注册<br/>9月1-9日报考<br/><br/>考试时间：<br/>10月13日-14日<br/>10月20日-21日",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-7.png ",
+          "imgWidth": "100",
+          "content": "报名时间：<br/>2018年8月25日0：00-9月15日15：00。<br/><br/>考试时间：<br/>10月20日-21日",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-8.png ",
+          "imgWidth": "100",
+          "content": "报考时间：<br/>2018年5月31日-6月6日<br/><br/>考试时间：<br/>10月20日-21日",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-9.png ",
+          "imgWidth": "100",
+          "content": "报考时间：<br/>2018年6月26-7月10日<br/><br/>考试时间：<br/>10月20日-21日",
+          "btnText": "在线咨询",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-10.png ",
+          "imgWidth": "100",
+          "content": "报名时间：8月10日-19日<br/>现场确认时间：8月22日-26日<br/><br/>考试时间：<br/>10月20日-21 ",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/b3-11.png ",
+          "imgWidth": "100",
+          "content": "报名时间：<br/>9月3日开始<br/><br/>考试时间：<br/>10月20日-21日",
+          "btnText": "自考答疑通道，点击开启",
+          "btnShow": "1"
+        }
+
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/userimg1.png",
+            "name": "小太阳",
+            "content": "下定决心报名，踏上自考的路程，坚持不放弃！！",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/userimg2.png",
+            "name": "淹死的鱼",
+            "content": "在培训机构的班级认识了很多一起自考的伙伴，彼此鼓励，大家一定都会早日拿到毕业证",
+            "time": "5分钟前"
+          },
+          {
+            "url": "./images/userimg3.png",
+            "name": "花开半夏",
+            "content": "自考加油",
+            "time": "9分钟前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 1,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "自考必读十大问题，为1000人平均节省12小时……",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考答疑",
+      "author": "静读君",
+      "time": "2018-04-04",
+      "read": "12.6k",
+      "comment": "78",
+      "click": "122",
+      "image": "./images/1001.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "一、什么是自考？",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;首先，我们来了解一下什么是自考。自考，全称是高等教育自学考试，简称自学考试，又叫自考。在1981年，经国务院批准后创立，是对自学者以学历考试为主的高等教育国家考试。自考是个人自学和国家考试相结合的高等教育形式，是我国社会主义高等教育体系的重要组成部分。",
+          "btnText": "发起按钮",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;与普通高考不同的是，自考要求“宽进严出”。考生需要参加国家考试机构统一组织的单科考试，合格一门，才能获得一门的合格证书，所有科目合格后，才能申请毕业。自考是一段拼搏的经历，是自我成长的过程，只有善于自学和自制力强的人才能在自考中胜出。",
+          "btnText": "发起按钮",
+          "btnShow": "0"
+        },
+        {
+          "title": "二、为什么要自考？",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考从诞生开始至今，近三十年帮助无数人改变命运。因为有了学历，他们从工地进入写字楼；因为提高了学历，她们从店铺销售成为职场女王。信息社会高速发展，未来对学历的要求只会越来越高，只有不断提升学历的人，才能敲开好工作的大门。",
+          "btnText": "发起按钮",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 不要怪大公司招聘只看985/211的简历，没有好文凭，你只会无数次被拒之门外。生活就是如此残酷如此现实，唯有学习，才有机会改变命运。",
+          "btnText": "测试你能不能提升学历？",
+          "btnShow": "1"
+        },
+        {
+          "image": "./images/1002.png ",
+          "title": "三、自考的含金量怎么样？",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 我国高等教育学历共有五种：普通高等教育、高等教育自学考试、成人高等教育、电大开放教育、远程网络教育。要强调的是，自考是全日制普高之后含金量最高的。如果你错过了全日制高考，一定不要再错过自考！",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考学历的社会认可度同样很高，成立至今经历37个春秋，考公务员考研甚至出国留学都是可以的。当然也有一些考研院校有特殊规定不招收自考毕业生，需要我们多多留意，考公留学同样如此。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 再就是大家关注的就业问题，目前我国绝大多数企业都是认可自考学历的，在职场中你的学习能力和踏实精神将更为重要，所以立志自考的朋友们不用太担心就业的问题。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "四、参加自考有哪些要求？",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考被称为没有围墙的大学，所以它的报考要求很简单，覆盖群体很广泛。只要是中华人民共和国公民以及港澳台同胞、海外侨胞都可以参加自考。比如说，你是专科在校生，或者是中专及高中毕业生，都可以参加自考。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 但是要注意一点，在自考本科前，一定要有专科毕业证。如果有些同学是中专、初中、高中毕业生，一定要先获得专科毕业证，才能报考自考本科。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考为大家平等接受高等教育提供了机会和制度的保障，正如励志心语说的，“如果你立志前行，全世界都会为你铺路！” ",
+          "btnText": "我适合哪一种学历提升方案？",
+          "btnShow": "1"
+        },
+        {
+          "image": "./images/1002.png ",
+          "title": "五、自考的考试时间和考试地点？",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考的时间和地点也是许多同学十分关注的。考虑到报考人员的特殊性，也为了保证自考毕业生的质量和规范考试工作，一年安排有两次自考，分别是每年4月和10月。当然也有例外，四川和重庆就是每年1月、4月、10月考试，而广东和江苏则是每年1月、4月、7月、10月考试，其他地方都是统一的。 ",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考考试地点一直遵循就近原则，全国每个省级行政区基本都有设置自考办，考试地点就在自考办所在辖区。",
+          "btnText": "自考考试地点查询",
+          "btnShow": "1"
+        },
+        {
+          "title": "6自考流程有哪几步？",
+          "image": "",
+          "imgWidth": "",
+          "content": "",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "第一步 选择自考专业",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 参加自考，首要的当然是选择专业。大家可以直接进入本地自考办官网或者尚德机构官网进行查询。比如我们点击进入尚德官网，在自考栏目中选择自己的省份，再打开专业汇总，就能看到院校和专业的明细表。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 如果对于专业选择有疑惑，不妨咨询自考办的老师或者尚德机构的职业规划师，相信他们会一步步引导你找到适合自己的专业。",
+          "btnText": "我适合报考什么专业？",
+          "btnShow": "1"
+        },
+        {
+          "title": "第二步 报名注册",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 结合自身情况想好专业后，就可以开始报名注册。目前只有青海和江西要求必须在自考办现场报名，其他省市都可以在自考办官网上注册报名，当然必须先经过考办的自考审核。 ",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 每次考试，我们最多可以报考四门科目，如果挂科，后面也可以继续报考，不会有任何负面影响。完成报考后，好好学习准备参加考试就行了。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "第三步 报考尚德机构",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 很多同学都不知道如何准备自考，看什么教材，做什么试题，有哪些注意事项，如果没有专业人士引导，很容易事倍功半。所以推荐大家选择权威的自考机构，让专业的团队来帮助我们更快更好地学习自考知识。",
+          "btnText": "了",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 市面上自考机构很多，鱼龙混杂，尽量选择有实力有品牌的大型机构才对。必须推荐的话，我们建议报考尚德机构。尚德机构成立于2003年，专注自考领域长达十五年。在2018年登上春晚，又于2018年3月在美国纳斯达克上市，这家教育公司的实力大家不用担心。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/1004.png ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 选择好的自考机构是自考成功的开始，解下来我们就可以依照专业指导安心开始学习，等待自考考试的到来。",
+          "btnText": "了解尚德机构的更多信息",
+          "btnShow": "1"
+        },
+        {
+          "title": "第四步 参加自考",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考时间和自考地点在上文已经讲到，大家听通知准时参加就可以了。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "第四步 参加自考",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考时间和自考地点在上文已经讲到，大家听通知准时参加就可以了。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "第五步 申请学位",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 参加完所有科目的报名，大家就可以申请学士学位。但也要满足各个学校对于时间和成绩特殊要求，例如四川大学，一是要求平均分不能低于65分，外语成绩必须合格，二是要求从取得考籍到提出申请，间隔时间不得超过五年。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 所以大家申请学位时，一定要仔细查看报考学校的各项要求，从而制定合理的考试计划。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 恭喜你，进入自考的最后一步，准备论文！我们来到主考院校参加毕业答辩，通过后就能申请自考毕业了。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考的完整流程大概如此，如果你是在自考机构报名，可以直接忽略此部分。",
+          "btnText": "对流程还有问题点这里",
+          "btnShow": "1"
+        },
+        {
+          "title": "七、自考有哪些热门专业？",
+          "image": "./images/1005.png ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 目前国内自考专业很多，只要你能想到的，基本都有设置。登录尚德机构官网，我们可以清楚看到学历栏下方的诸多自考专业，大家可以从自身能力出发，结合尚德学历规划师的建议，选择最适合自己的专业进行报考。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 有的同学或许会问，目前市面上最热门的专业有哪些呢？ ",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 我们从市场需求量和考试难易度两方面出发，从上百门专业中为大家整合分析出九大热门专业：行政管理、汉语言文学、学前教育、工商管理、会计、金融、法律、英语、计算机信息管理。",
+          "btnText": "了解热门专业详细信息",
+          "btnShow": "1"
+        },
+        {
+          "title": "八、什么是自考的主考院校？",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 许多朋友看到自考的主考院校都会疑惑，其实它是自考备考中很关键的一环。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 自考命题时，省考委会遴选专业师资力量较强的全日制普通高等院校来担任自考的主考院校。大多院校都是重点大学，这些主考院校在自考的过程中可能会参与命题和评卷，后续也会负责相关专业实践性科目的考核，和毕业论文毕业答辩的审核。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "九、自考的通过率怎么样？",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 说到自考的难度，可以说因人而异。为什么这样说呢，因为自考是一个对知识的掌握要求很严的考试，但它又有规律可循。许多参加过自考的同学都表示，只要你认真复习教材，多做历年真题，通过自考很容易。（小声透漏给你，自考试题很多都出自官方教材和历年真题）",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 千万不要觉得花钱就可以考过，自考有其公平性和水平性的要求，不努力的人就很难拿到自考学位证书。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 根据尚德机构给出的数据，当前自考的整体通过率约在46%，尚德机构学员的通过率可以达到70%以上，个别王牌专业，如汉语言文学，通过率甚至高达90%。",
+          "btnText": "",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp; 在人人都很浮躁，追求快速成功的时代，那些静下心来为自己的学历投入更多时间的人，才能在人生的马拉松中最终胜出。",
+          "btnText": "通过率高的专业有哪些？",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": "./images/1006.png ",
+          "imgWidth": "",
+          "content": "",
+          "btnText": "",
+          "btnShow": "0"
+        }
+
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-22.png",
+            "name": "想你的欣",
+            "content": "其实报班还是不错的，好歹有个人带着你学习",
+            "time": "10分钟前"
+          },
+          {
+            "url": "./images/touxiang-23.png",
+            "name": "绵绵羊",
+            "content": "我觉得自学能力强的人可以不用报班的，靠自己也ok啊",
+            "time": "15分钟前"
+          },
+          {
+            "url": "./images/touxiang-24.png",
+            "name": "HH~GG",
+            "content": "其实这个真的是看个人，除非自律能力特别强的人，要不然还是建议报班",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "feeds_show": 1,
+      "title": "我基础太差，还能报自考吗？”",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考答疑",
+      "author": "如花姐姐",
+      "time": "2018-5-4",
+      "read": "12.6k",
+      "comment": "36",
+      "click": "155",
+      "image": "./images/f2-3.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+
+        {
+          "title": "",
+          "image": "./images/f2-1.png",
+          "imgWidth": "100",
+          "content": "前几天，有网友在后台留言问Lily姐：“我基础太差，还能报自考吗？”<br/>在这里，Lily姐要告诉大家，其实这个问题不是你有没有基础而去报考的问题，而是你需不需要学历而去报考的问题。<br/>换言之，只要你需要学历，且学历能给你带来很多好处，就应该报名自考！至于基础好不好，甚至零基础，这些都是报名以后的事情了。<br/>即使是零基础，你报考后也不要担心，只要你有一定决心和毅力，踏踏实实学习，肯定会换来好结果！",
+          "btnText": "低基础本科学历获取方案",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": "./images/f2-2.png ",
+          "imgWidth": "100",
+          "content": "自考大多数时间都是自学，不像高中那样会，老师把总结多年高考真题得来的重点告诉你，怕你看不懂还把重点掰开了揉碎了讲给你。当然，你也可以选择报班学习，但追根究底，还是要靠自己学习，就算是培训班的老师也不会赶着催你看书、写作业的。所以总结重点这个工作都需要自己来做。<br/>不过幸好的是自考没有高考那么难，自考试题不会经常变换考点，出题老师也不会绞尽脑汁的刁难你。所以，你平时要既做到看书，也要每天练习刷题。<br/>备考时要有一个良好的计划和习惯去支撑。首先每门课程在把教材通读一遍，了解了教材的构架。之后找近五次考试的真题试卷来做。<br/>刚开始做的时候不会也没关系，关键要把每道题的知识点标记出来，之后统计这五张卷子的所有知识点，并在书中标记出来，这样你就知道这门课程的考试重点在哪。可以把这些重点都摘录出来或者用别的方法整理出来，每天记忆，边记忆边找卷子做，来巩固记忆。<br/>文科类的考试，一般分为单选、多选、名词解释、简答、论述这几个题型。在记忆知识点的时候，也可以猜测这个知识点会以什么样的形式出题，并对号入座。",
+          "btnText": "点击测试：哪些专业适合你",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": "./images/f2-3.png",
+          "imgWidth": "100",
+          "content": "单选一般是几个简短的词组组成的重点。多选一般是几个短句组成的重点。名词解释一般是生僻的学术词语组成的重点。简答一般是几个长句组成的重点。论述一般是几个段落组成的重点。<br/>面对这些题型需要死记硬背的就是名词解释、单选、多选。简答可以记句子中的关键词在答题的时候用自己的语言把关键词串在一起，论述直接理解就可以，在答题的时候思路清晰言之有理即可得分。",
+          "btnText": "发起按钮",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f2-4.png ",
+          "imgWidth": "100",
+          "content": "当然有的小伙伴会想要省事一点，直接买一些现成的重点教材来背记，但是我觉得这样或许没有自己找出来的重点记忆更深刻。<br/>不论哪种方法，只要你按照以上步骤坚持学习的话相信自考考过是没有问题的。",
+          "btnText": "自考快速通关秘籍",
+          "btnShow": "1"
+        }
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-10.png",
+            "name": "就是晴天",
+            "content": "我基础就不好，看了这篇文章重拾信心了",
+            "time": "5分钟前"
+          },
+          {
+            "url": "./images/touxiang-11.png",
+            "name": "YOUNG",
+            "content": "不留遗憾，不留遗憾，不留遗憾，重要的事说三遍！",
+            "time": "13分钟前"
+          },
+          {
+            "url": "./images/touxiang-12.png",
+            "name": "叫我第一名",
+            "content": "希望自考能帮助我",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "type": 2,
+      "feeds_show": 1,
+      "title": "【2018最新最全】自考报名到毕业全流程！",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最近，很多同学都在后台问, “自考到底怎么报名？” “自考流程是啥？”局长快解答不过来了,所以特地为你们整理了从报名到毕业全流程",
+      "tag": "自考答疑",
+      "author": "加分情报局",
+      "time": "2018-3-26",
+      "image": "./images/f3-1.png",
+      "read": "12.6k",
+      "comment": "153",
+      "click": "86",
+      "imgShow": "0",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "",
+          "image": "./images/f3-1.png",
+          "imgWidth": "100",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上图为简易版的流程<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;详细解读请往下看",
+          "btnText": "在线答疑:低学历如何学本科",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-2.png",
+          "imgWidth": "100",
+          "content": "时间：考前1个月（北京）<br/>形式：网上注册<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前，全国大部分省份的自考新生报名注册都在网络上进行，只是各个省份网上报名系统开放时间不同。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-3.png",
+          "imgWidth": "100",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 以北京市自考为例，每年3月1~5日，9月1~5日，考生须进入北京自考首页（zikao.bjeea.cn）进行注册，填写个人基本信息、联系方式等，设置登录密码。注册时需上传本人近期免冠正面电子证件照片（蓝底，像素不小于400×576，JPG格式，5M以下）。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除湖北省自考新生网上注册系统全年开通，其他省份报名时间详见省考试院官网通知，以及关注局长。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注：新生注册专科专业没有要求，注册本科专业需要有专科学历。注册时专、本专业可以不一样，专业可以随意选择。一般专科科目有10~15门；本科科目有15~20门。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不同专业科目内容不同，考生将专业内所有科目考过即可毕业。每个专业都有对应的主考院校，建议先选专业后选学校。",
+          "btnText": "点击获取尚德千元助学金",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-4.png ",
+          "imgWidth": "100",
+          "content": "时间：3月、9月（北京）<br/>形式：本人持身份证原件至所报考区自考办进行新生注册现场确认。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新生现场确认必须要本人到场采像。现场确认时间一般在考前45天。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;报考课程完成后，考生须查看或打印“现场确认凭单”，以北京市自考为例，必须在3月7日规定时间内，凭有效身份证件到现场确认的考区，确认个人身份信息、按要求采集指纹信息及办理其他相关手续。现场确认成功后，重要身份信息（姓名、身份证号、照片）将不能更改。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;只有新生现场确认之后才算自考报名成功，并形成准考证号。考前一周考生可到现场确认自考办领取准考证。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-5.png ",
+          "imgWidth": "100",
+          "content": "时间：3月、9月（北京）<br/>形式：网上报考，网上缴费<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现场确认之后，考生便能得知自己的准考证号。之后在北京市考生服务平台绑定自己的准考证号即可选报4月或10月份的考试科目。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 考生须在现场确认成功后、报考结束前，按照“新生注册回执单”上的提示，进入“个人中心”，输入现场确认验证码，并在网上缴费完成报考。报考结束前可增报其他课程。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其他省份也有自己的考试报考系统，同样登陆报考网站即可选报当次考试科目。北京市一门科目考试费为30或者35元，各个省份报考费用不同，由当地物价局定价。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-6.png ",
+          "imgWidth": "100",
+          "content": "时间：考试报考成功后考生自由安排<br/>形式：考生的学习方式可以完全根据个人情况决定。可以选择自学，也可以选择教育机构，接受学习指导和帮助。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果选择完全自学，考生购买教材之前一定要确定本省的教材大纲。一般自考教材大纲都会在省考试院官网公布，仔细查询便能找到，实在找不到的可以致电省考试院或自考办。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 选择教育机构学习的，除了平时好好要听课，考前一定要多刷题库，重点内容重点记忆。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有些省份有考试院官方购书网站，如：安徽、上海、广东等。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-7.png ",
+          "imgWidth": "100",
+          "content": "时间：4月、10月（北京）<br/>形式：考生携带身份证原件、准考证原件和考试用具，到指定考场参加考试。<br/>考试流程<br/>1.打印座号通知单———报考结束后，考生需要在个人“信息中心”查看考试通知单，了解各科考试的具体地点（考点学校、考场、座次等）。<br/>2.参加考试———考试时应携带有效身份证件、准考证。最好从网上打印座号通知单，以免记错考场、座位号。考试时不要携带任何通信工具进入考场。需要注意：开考15分钟后不允许进入考场，不可提前交卷离场。<br/>全国高等教育自学考试统一考试时间为4月和10月的第三周周末，上午：09:00-11:30，下午：14:30-17:00。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一年2次考试，1次考2天，1天考2门。目前除四川省和广东省一年考3次（1、4、10月），江苏省一年考4次（1、4、7、10月）外，其他省份都是一年2次考试。<br/>注：除笔试科目外，部分专业还有实践科目，如：管理系统中计算机应用。实践科目考试时间约在统考前后一周进行，具体考试时间和地点由主考院校通知。<br/>考试形式大多为上机考试，考试内容根据科目内容而定。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-8.png ",
+          "imgWidth": "100",
+          "content": "时间：6月、12月（北京）<br/>形式：网上查询<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 考试结束约一个月后考试成绩公布，考生可以登陆考生服务平台或成绩查询网址查询成绩。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+
+        {
+          "title": "",
+          "image": "./images/f3-9.png ",
+          "imgWidth": "100",
+          "content": " &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 考试成绩发布一周内，如对成绩存在异议，可以在考生服务平台申请成绩复查，成绩发布两周后公布成绩复查结果。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+
+        {
+          "title": "",
+          "image": "./images/f3-10.png ",
+          "imgWidth": "100",
+          "content": " 时间：6月、12月（北京）<br/>形式：网上申请+现场确认<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 当考生将所报专业内的所有科目考过（60分）即可申请毕业。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 所有科目包括：笔试科目、实践科目、毕业论文。（自考专科没有实践科目和毕业论文）<br/>注：想拿学位的本科生，在毕业申请之前一定要确认自己是否达到学位要求，即学位科目分数是否达标，学位英语是否达标。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业申请之后准考证号将被注销，不能继续参加科目考试。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-11.png ",
+          "imgWidth": "100",
+          "content": " 时间：3月中旬、9月中旬（北京）<br/>形式：现场申请、审核资料<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自考本科毕业证书发放之后，考生持相关资料至主考院校现场申请学位证书并审核资料。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学位申请需要达到主考院校的学位要求，各主考院校学位要求不一，具体可以在学校官网查询，或致电主考院校继续教育学院。",
+          "btnText": "点击咨询：自考专业早知道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/f3-12.png ",
+          "imgWidth": "100",
+          "content": "时间：每年3月、9月（北京）<br/>形式：由主考院校继续教育学院官网通知，本人前往主考院校领取毕业证书或学位证书。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一般提交毕业申请或学位申请3个月后证书才会发放，证书发放之后即可在学信网查到专科或者本科的学历信息。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后，想拿学位证的看过来！学位英语考试一年一次，想要拿学位的本科生不可错过。<br/>时间：每年3~4月考试，一年一次<br/>形式：网上报名、现场确认、现场考试<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;报名时间不定，具体看省考试院官网通知，以及关注局长嘛~学位英语可以用大学生英语四级（CET-4）抵免，所以难度低于四级。学位英语没有教材和考试大纲，考核学生综合英语能力，可以用四级题目复习备考。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自考流程走下来差不多就是这样，请各位同学收藏备好！自考其实并不难，最难的是坚持考完，大家加油~",
+          "btnText": "点击了解更多自考资讯",
+          "btnShow": "1"
+        }
+
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-22.png",
+            "name": "奔跑",
+            "content": "好全面的流程",
+            "time": "10分钟前"
+          },
+          {
+            "url": "./images/touxiang-23.png",
+            "name": "一直都在",
+            "content": "感谢作者，看了之后对自考流程了解多了",
+            "time": "15分钟前"
+          },
+          {
+            "url": "./images/touxiang-24.png",
+            "name": "hihi",
+            "content": "为作者打call",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "倾听丨已经就职的我，为什么要自考本科？",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考交流",
+      "author": "Lily姐",
+      "time": "2018-01-08",
+      "read": "12.6k",
+      "comment": "219",
+      "click": "113",
+      "image": "./images/f4-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "如今社会是技术人才紧缺，学历这块敲门砖却从来没有降低过，本科毕业生的普及率也是在逐年上升。但是还有一部分人因为高考落榜读了大专，或者因为一些家庭或个人原因早早加入了社会工作。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "",
+        "btnText": "",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "企业对个人要求的不断提高，也让这些没有本科学历的在职人员焦虑起来。那么自考本科文凭是不是有帮助呢?企业承认自考本科文凭吗?很多人对此不是很清楚，今天我们就来说说，自考本科与就业相关的问题。",
+        "btnText": "上班族，轻松高效学本科",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/f4-2.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "",
+        "btnShow": "0"
+      },
+      {
+        "title": "自考本科有助于提升就业机会",
+        "image": "",
+        "imgWidth": "",
+        "content": "在当前社会上，就业难是一大重要问题，而高学历者的工作机会相比于低学历者多的多，因此报考自考本科不仅有助于提升考生的能力，更有助于提升考生的学历，以此为考生创造更多的就业机会。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来根据各个行业的不同需求，除了委托给英美机构意外，个别地区也会委托给当地的一些行业机构。它的课程构成，除了我们上面说的四类课程之外，多出一部分证书课程。把证书课程考完，行业协会会颁发一个行业的资格证书，然后有了这个证书，我们就可以免考部分专业课。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/f4-3.png",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "自考本科有助于提高工资定级",
+        "image": "",
+        "imgWidth": "",
+        "content": "当下不少企业对求职和在职工作者的学历都比较看重，不少企业也规定按照学历定工资，本科学历相比于专科学历所达到的工作级别就有所不同，因此报考自考本科能够使得在职人士在就业中获得更高的工资。",
+        "btnText": "上班族学历提升通道",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/f4-4.png",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "自考本科有助于竞聘升职",
+        "image": "",
+        "imgWidth": "",
+        "content": "当下许多企事业单位在提拔人才、竞选干部上的基本条件都是本科以上学历，因此不少员工虽然能力达到却没有竞聘升职的机会。对此报考自考本科有助于提升自身学历，使得自己的职业发展空间越来越大。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": " ",
+        "image": "",
+        "imgWidth": "",
+        "content": "总而言之，本科学历在当前社会中至关重要，与人的职业生涯发展密切相关，因此报考自考本科有助于大大提升自身学历，为自己的就业道路创造更大的机遇。",
+        "btnText": "点击获取：上班族自考攻略",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-19.png",
+            "name": "北至",
+            "content": "本科学历真的是升职加薪的敲门砖，我要加油!",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-20.png",
+            "name": "小熊不笨",
+            "content": "为时未晚，一切都在进行中",
+            "time": "30分钟前"
+          },
+          {
+            "url": "./images/touxiang-21.png",
+            "name": "Guangzhi",
+            "content": "好了，我要去学习了",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "feeds_show": 1,
+      "title": "教育部印发2018自考专业清单，快看看有没有你的专业！",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 教育部印发的《高教教育自学考试专业设置实施细则》和《高等教育自学考试开考专业清单》，对2018年自考开考专业作出了调整。",
+      "tag": "自考资讯",
+      "author": "学霸君",
+      "time": "2018-3-27",
+      "read": "12.6k",
+      "comment": "223",
+      "click": "108",
+      "image": "./images/f8-4.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自考本科由原来的320个专业，专科258个专业，调整到本科专业为157个，专科专业为101个。其中本科有163个专业即将停招，专科有157个专业即将停招。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lily姐整理出了各开考专业的详细资料，小伙伴们快去看看有没有你报考的专业吧。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "教育部办公厅关于印发《高等教育自学考试专业设置实施细则》和《高等教育自学考试开考专业清单》的通知",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各省、自治区、直辖市教育厅（教委）、高等教育自学考试委员会，军队高等教育自学考试委员会：",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为规范高等教育自学考试专业设置，根据《高等学历继续教育专业设置管理办法》，全国高等教育自学考试指导委员会（以下简称全国考委）制定了《高等教育自学考试专业设置实施细则》（以下简称《实施细则》）和《高等教育自学考试开考专业清单》（以下简称《专业清单》），现一并印发给你们，请遵照执行，并就有关事项通知如下：",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": " 一、《实施细则》适用于高等教育自学考试专业设置，明确了取消自学考试专业审批后各相关主体的职责，规定了专业开考、调整、停考、监督等各环节的要求和程序。自2018年起，各省、自治区、直辖市高等教育自学考试委员会（以下简称省级考委）和军队高等教育自学考试委员会（以下简称军队考委）应严格按照《实施细则》开展自学考试专业设置工作，通过全国高等教育自学考试专业管理信息系统进行专业登记（系统启用事项另行通知）。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "二、《专业清单》是高等教育自学考试专业设置的总目录，自发布之日起，各省级考委和军队考委开考自学考试专业应限于《专业清单》范围内，严格按照《专业清单》所列专业名称和专业层次开展相关工作。全国考委将对《专业清单》进行年度审议并适时调整，各省级考委和军队考委如需开考《专业清单》以外的专业，可向全国考委提出建议，专业列入《专业清单》后方可开考。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "三、各地和军队要按照《实施细则》的要求加强自学考试专业建设，依据《专业清单》进行专业调整。新开考专业应使用《专业清单》内的专业名称和专业代码，统一专业类型，并按照现行专业基本规范制定专业考试计划。现开考专业应参照《高等教育自学考试新旧专业对照表》调整规范为《专业清单》内专业；无法调整为《专业清单》内专业的，应在3年内逐步停考，自2018年下半年起不再接受新考生报名，最迟于2021年下半年前停止颁发毕业证书。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "四、专业调整是高等教育自学考试转型发展的关键环节，各地和军队要本着“规范、稳妥、有序”的原则制订切实可行的工作方案，加强领导，精心组织，确保顺利实施。要切实维护考生的正当权益，充分保障考生的知情权和选择权。扎实做好社会宣传工作，及时准确向社会公布专业调整情况，营造良好的舆论环境。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 《实施细则》和《专业清单》实施过程中的情况和问题，请及时报全国考委办公室。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自考专业选择真的是越来越少了，不想留下遗憾的小伙伴，要抓紧时间选定专业赶紧报名了。",
+        "btnText": "最新自考资料免费下载",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-16.png",
+            "name": "往事随风",
+            "content": "哇，是真的么？",
+            "time": "15分钟前"
+          },
+          {
+            "url": "./images/touxiang-17.png",
+            "name": "明天会更好",
+            "content": "涨知识了！",
+            "time": "30分钟前"
+          },
+          {
+            "url": "./images/touxiang-18.png",
+            "name": "啊呀哟",
+            "content": "我要赶紧报名了!",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "自考有什么优势？给你一个选择自考的理由！",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 总有人问：自考的优势都有啥啊?你应不应该努力去奋斗？接下来小编说几个选择自考的理由,看看有没有戳中你的点呢? ",
+      "tag": "自考答疑",
+      "author": "Lily姐",
+      "time": "2018-5-8",
+      "read": "12.6k",
+      "comment": "153",
+      "click": "86",
+      "image": "./images/f6-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "优势一：无门槛 无限制",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自考是一所没有围墙的大学，任何人不论年龄、性别、地域、甚至是原有受教育程度比较低也可参加。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自考专业选择面广，专业多，在漫长的学习过程中，可以根据各位的需要随时调整专业。",
+        "btnText": "在线答疑:低学历如何学本科",
+        "btnShow": "1"
+      },
+      {
+        "title": "优势二：学分零存整取",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自学考试学习方式灵活多样，你既可以参加各种机构的辅导学习，也可以完全靠个人自学，边工作边读书。考试没有规定的学制年限，分课程进行考试，说白了就像银行的“零存整取”，考过一门算一门学分，成绩终身有效，最后只要通过专业内所有课程的考试，修满学分，就可以申请毕业。",
+        "btnText": "点击咨询：自考专业早知道",
+        "btnShow": "1"
+      },
+      {
+        "title": "优势三：费用相对较低",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自考是最便宜的学习途径。完全自学，不参加辅导班，按照专业教学计划，平均一个专业15门课程计算，每门几十元的报名费用加上一些教材或者辅导资料等的费用，如果顺利的话考出一个专科文凭或者本科文凭仅需1500元左右。怎么样？便宜吧，但压力也是异于常人哦~你要耐得住寂寞跟各种诱惑，这样的费用对家庭经济条件不很宽余的考生来说，不失为一种明智的选择。",
+        "btnText": "点击获取尚德千元助学金",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-22.png",
+            "name": "奔跑",
+            "content": "希望通过自考能有很好的提高吧",
+            "time": "10分钟前"
+          },
+          {
+            "url": "./images/touxiang-23.png",
+            "name": "一直都在",
+            "content": "坚持坚持坚持",
+            "time": "15分钟前"
+          },
+          {
+            "url": "./images/touxiang-24.png",
+            "name": "HH~GG",
+            "content": "自考改变命运",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "一图看清：专科和本科学历，在以后工作中究竟有多大区别！",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 可能现在的你不以为然，还觉察不出学历对你的重要性，今天告诉大家专科学历和本科学历之间的差别：",
+      "tag": "自考交流",
+      "author": "我是自考人",
+      "time": "",
+      "read": "12.6k",
+      "comment": "112",
+      "click": "95",
+      "image": "./images/f7-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "./images/f7-2.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "点击咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/f7-3.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "专科学历考本科专属方案",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-13.png",
+            "name": "兔子",
+            "content": "专科和本科真的差挺多的",
+            "time": "30分钟前"
+          },
+          {
+            "url": "./images/touxiang-14.png",
+            "name": "稳稳de幸福",
+            "content": "早报名早考证",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-15.png",
+            "name": "free",
+            "content": "太现实了",
+            "time": "2小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "feeds_show": 1,
+      "title": "技巧丨如何考出好成绩？这几点你必须知道",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考技巧",
+      "author": "学霸君",
+      "time": "",
+      "read": "12.6k",
+      "comment": "132",
+      "click": "84",
+      "image": "./images/f8-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "./images/f8-3.png",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很多没有参加过自考的考生，对自考的认识不足，惧怕考试。其实，自考是水平考试，只要吃透教材，准备充分，上场考试就不会怯场。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自考功夫在平时。只有平时复习扎实，上场才不至于惊慌失措。笔者接触的优秀考生，一致强调要重视课本和真题。他们大多在考前做足了这两项工作，并自信地走进考场，取得了好成绩。",
+        "btnText": "点击咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/f8-2.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "历年真题很重要",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果你感觉自己复习的还不是很有把握，目前应对考试需要做的就是多做历年试题，尽快熟悉题型，这会在考试的时候起到事半功倍的作用，另外，不要太多关注自己仍然很生疏的知识，争取把掌握了的知识点运用纯熟，一方面可以给自己竖立信心，一方面也巩固了已有知识的得分率。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "了解考点情况和考试时间",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 临近考试，要对自己的考试地点有所了解，对不熟悉的考试地点一定要亲自设计好路线，最好亲自到考点考察一番，避免由于路线不熟悉导致迟到错过考试。考试时间也非常重要，自己要考的科目的具体时间要清楚。笔者曾经遇到这样的情况，有的考生看错了自考的通知单而错过了考试时间。所以请再次看一下自己的考试通知单上的考试时间。",
+        "btnText": "点击领取自考免费资料",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ",
+        "imgWidth": "",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "考场须知",
+        "image": "",
+        "imgWidth": "",
+        "content": "1 、考生参加考试时，必须携带磁卡准考证、身份证（含军人、武警人员证件，16岁以下考生使用户口薄）和考试课程座位通知单，证件不全者，不准参加考试。<br/>2 、 考生进入指定考场后，必须在指定的座位上参加考试，考生坐错座位，其成绩以零分计。<br/>3 、 考生必须在试卷第一页右上角已标明的两个方柜里准确填写自己的座位号，否则成绩以零分计。<br/>4 、 考生必须严格遵守考试纪律。根据全国考委规定开考十五分钟后，考生不得进入考场，开考三十分钟后方准交卷出场，交卷出场后不得再进考场续考， 考生不得携带寻呼机、移动电话、商务通等进入考场。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，进考场以前一定好好察看自己携带的文具是否都准备齐全，钢笔圆珠笔，2B铅笔，兰黑色钢笔或者填涂用的炭素笔，计算器，仅限于修改填涂卡的修改液等等。",
+        "btnText": "2018年报考指导书",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/f8-4.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "别轻视“小题”",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很多考生复习时选择主攻简答题、论述题，因其每题的分值较大，难度较高，而认为选择、填空等小题分值小，答错几道无所谓，还认为这类题目难度较小，甚至有希望“蒙对”，因而有些考生在做模拟题时，直接跳过了“小题”部分。然而相关评卷教师介绍，根据以往经验，选择题、填空题是考生经常失分的地方。虽然这些小题每道题目的分值较小，往往只有一两分，可由于题量较大，考生如果在小题上错误频出，也将失去很多分数，不少考生在填空、选择题部分所失分数与简答、论述题中的失分相差无几。而对于那些就差几分及格的考生而言，往往就是一两道“小题”出错导致最后没能及格。",
+        "btnText": "低基础学历提升方案",
+        "btnShow": "1"
+      },
+      {
+        "title": "调整好心理压力",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提前达到考点后，大多数考生喜欢见缝插针再复习一会儿。考前1小时复习效果不错。自考识记内容不少，考前如时间充裕，不妨再翻翻书。如果心情太紧张，不妨深呼吸，和身边同学聊聊天，缓解一下紧张情绪。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一旦迈进考场，就要全身心投入考试，考生要待开考信号发出后再答题。答题时要计算好时间，先易后难，以免因时间不够而使成绩不理想。考试结束信号发出后，不管做没做完题，都要立即停笔，以免违反考纪造成不必要的损失。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 逢考试，考生就难免有紧张乃至怯场情绪。心理学研究表明，适度紧张会给肌体带来兴奋，让人保持一定的适应能力，对人有益处。因此，考前适度紧张是正常且有益的，只要做足平时功夫，考前做好准备，考试时发挥出实际水平，取得良好成绩并不难。",
+        "btnText": "点击获取更多自考信息",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-13.png",
+            "name": "kiki",
+            "content": "感激，看一看考前须知就不慌",
+            "time": "10分钟前"
+          },
+          {
+            "url": "./images/touxiang-14.png",
+            "name": "稳稳",
+            "content": "感觉跟高中考试一样",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-15.png",
+            "name": "free",
+            "content": "希望我能拿到好成绩，早日考证",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "自考提高学历的逆袭之路，这个流程如何来走？",
+      "msgShow": "1",
+      "message": "想要自考的盆友可以观看下面的图解，有非常详细的报名步骤哟~",
+      "tag": "自考答疑",
+      "author": "加分情报局",
+      "time": "2018-04-25",
+      "read": "12.6k",
+      "comment": "12",
+      "click": "563",
+      "image": "./images/9001.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "图解自考报名流程",
+          "image": "./images/9002.png",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "发起按钮",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/9003.png",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "点击咨询：各地自考报名流程",
+          "btnShow": "1"
+        },
+        {
+          "title": "自考学历流程图解",
+          "image": "./images/9004.png",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "点击了解:自考热门专业",
+          "btnShow": "1"
+        }
+
+
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-22.png",
+            "name": "宁静",
+            "content": "这流程总结的太好了，我们这些自考的人，能不能租个群交流经验",
+            "time": "10分钟前"
+          },
+          {
+            "url": "./images/touxiang-23.png",
+            "name": "7668king",
+            "content": "报了辅导班，不要忘记还要自己去报名参加考试，老师只负责讲课和辅导你学习，没法帮你报名的，这是自己的事",
+            "time": "15分钟前"
+          },
+          {
+            "url": "./images/touxiang-24.png",
+            "name": "mia23",
+            "content": "每个步骤都要好好关注下，尤其是免考申请，哈哈",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "自考有必要报辅导班吗？",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自学考试宽进严出，考试难度大，通过率低。考生自己的努力、拼搏固然重要，但自考机构的帮助也不可小觑。考生可以根据自身条件选择报辅导班或不报辅导班，具体情况如下：",
+      "tag": "自考答疑",
+      "author": "知心姐姐",
+      "time": "2018-3-6",
+      "read": "12.6k",
+      "comment": "172",
+      "click": "309",
+      "image": "./images/f10-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "一、不需要参加辅导班的原由",
+        "image": "",
+        "imgWidth": "",
+        "content": "1、工作确实忙，没有足够的业余时间进行辅导。自考生多为上班族，工作繁重，没有足够的时间学习是客观因素。<br/><br/>2、自己基础知识扎实，有能力通过自学考试。对于多数同学来说，基础比较薄弱，但不乏也有同学基础支持扎实，加上自己的精心复习准备，具备通过自学考试的能力。<br/><br/>3、有很强的毅力可以坚持。自考能否通过很大程度上取决于坚持程度，有的同学目标明确，能做到高度自律，长久坚持。<br/><br/>4、风险高。有很多辅导班的真实性可靠性都有待考察，难以辨别真假以及辅导效果，选择起来需要很大的风险。",
+        "btnText": "点击获取：轻松备考方案",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ",
+        "imgWidth": "",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "二、参加辅导班的原由及相关办法",
+        "image": "",
+        "imgWidth": "",
+        "content": "1、急着需要毕业证使用。辅导机构有强大的师资力量、教学资源以及自考经验，能够根据自身需求制定合理的备考计划，缩短学习周期，快速科学的帮助学员完成学业。<br/><br/>2、基础知识薄弱。对于自考生而言，基础知识薄弱，加之长久未能进行学习，导致自考知识的学习与吸收较为缓慢，严重影响学习进程。而辅导机构可以根据学员基础进行递进式辅导，提高学习效率，夯实知识基础。<br/><br/>3、意志力不够。自考贵在坚持，如果没有强大毅力支撑，很难完成学业。如今的辅导机构不仅是传道授业，更兼有管家的角色，时刻监督学习效果，助推学员持续前行。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有意向自考的同学可以根据上面的几点，参照自身情况，来决定要不要选择一个辅导班或培训机构。",
+        "btnText": "尚德自考培训报名入口",
+        "btnShow": "1"
+      },
+      {
+        "title": "自考机构如何选择？",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后，大家肯定想知道有没有机构可以帮助我们降低自考的难度呢？答案是肯定的，这些机构会提供以下服务：提供学习资料，完善报名信息，提供学习视频，重难点详细解析，在线模拟考试，串讲笔记，靠前押题等。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果你觉得报名注册这些事情很麻烦，大可交给自考机构，至少不用自己花时间报名注册选资料了。授课主要是在线模式，大家在家打开电脑就能学习自考知识了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你可能会问，这么周到的服务是不是很贵啊，其实不是，为知识付费相当划算，还节省了我们的时间，整体来看很值得。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说了这么多，也给大家推荐一些自考的好帮手。如果你想查询自考院校科目之类的信息，可以访问尚德机构官网；练习自考题目可以下载尚德机构APP，随时随地在手机上练习自考试题；也能在APP上观看课程，尚德机构官方也会提供一些自考科目的资料给大家；APP上还有许多志同道合的考友，你们可以在论坛里互相激励，一起成长。",
+        "btnText": "免费领取专属学历提升方案",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-13.png",
+            "name": "momo",
+            "content": "其实报培训班还是有用的，大家可以互相鼓励",
+            "time": "6分钟前"
+          },
+          {
+            "url": "./images/touxiang-14.png",
+            "name": "努力的努力",
+            "content": "培训班的作用就是督促和激励，对我这种懒惰的人还是有帮助的",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-15.png",
+            "name": "free",
+            "content": "报了尚德培训班，认识了很多一起自考的小伙伴",
+            "time": "1小时前"
+          }]
+        }
+      }　　
+    },
+    {
+      "id": 11,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "你真的了解自考流程吗？看完这二十二条你就明白了",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考资讯",
+      "author": "静读君",
+      "time": "2018-3-9",
+      "read": "12.6k",
+      "comment": "116",
+      "click": "269",
+      "image": "./images/f11-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "自考流程大概就是上图展示的那样，但小编想给大家详细说说。<br/>从自考报名到自考毕业有以下22个流程：<br/>（一）确定你的自考省份<br/>（二）登录自考省份的报名网站——某某省教育考试院官网<br/>点击进入“自学考试”栏目，里面会有各种自考信息，自考新生慢慢查阅。<br/>（三）确定你的自考专业<br/>查询各个自考专业需要考什么科目，使用什么版本的教材，建议大家选用全国统考自考教材科目较多的专业，学习和复习资料都比较多，容易通过考试。<br/>（四）网上报名注册自考准考证——某某省教育考试院（一般都是这个）或者某某省招生考试院",
+        "btnText": "点击获取：轻松备考方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f11-2.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "（五）现场确认报名信息，领取准考证<br/>去你在网上选择的确认现场地点，一般都是某某区县自考办<br/>（六）报考4月或10月的自考科目，规定时间内缴费，报名才有效<br/>大多数自考省份都是在网上报考科目，网上缴费。<br/>（七）查阅自考教材使用的教材，下载自考科目的考试大纲<br/>在某某省教育考试院官网里的“自学考试”栏目里查询，为什么要下载考试大纲，因为考试大纲是考试考点的依据。",
+        "btnText": "2018自考流程指导书",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ./images/f11-3.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "（八）购买自考教材、试卷和教材配套辅导等资料<br/>如果想要省钱，就去问自考老生收购二手教材，如果想要买新的教材，就去网上购买吧。<br/>（九）看教材、做试卷、查缺补漏、考前一个星期背记重点知识和重要考点<br/>考前一个星期背记重点知识和重要考点，非常重要！<br/>（十）下载考试通知单，查询考点地理位置<br/>考前一天查询考点地理位置，交通路线，预留出足够从住所到考点的时间<br/>考试通知单上有考试地点，考场考场号，考场座位号，考试日期等内容。建议多下载几张考试通知单，以防丢失，无法进考场。",
+        "btnText": "免费领取专属学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f11-4.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "（十一）准备考试文具，带齐“三证”（包括身份证、准考证、考试通知单）<br/>（十二）考试结束后，静静走出考场<br/>考试结束后，静静走出考场，该好好工作的人，好好工作；该好好学习的人，好好学习；该好好生活的人，好好生活。等待一个月左右查询成绩，在某某省教育考试院官网上查询成绩，查询完成绩后，你该好好准备下次自考科目了。<br/>（十三）重复报名考试科目，直到考完自考专业规定的所有的自考科目<br/>第二次自考就不用重新注册准考证了，也不用去现场确认了，重复报名考试的过程，直到考完自考专业规定的所有的自考科目。<br/>（十四）考完所有的自考科目，自考专科可以申请毕业了，自考本科继续下一个流程。",
+        "btnText": "2018报名流程自助查询",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ./images/f11-5.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "（十五）自考本科申请毕业论文答辩<br/>毕业论文答辩的事项不归自考办管理，而是归主考院校的继续教育学院管理。<br/>有的主考院校可以让缺少1-2门自考成绩的自考生申请毕业论文答辩，有的主考院校规定，必须全部自考科目通过才能申请毕业论文答辩。<br/>（十六）花2—4个月的时间撰写毕业论文<br/>（十七）去主考院校的答辩办公室或者教室进行毕业论文答辩<br/>（十八）等待一个月左右查询毕业论文答辩成绩<br/>一般都能通过的，论文成绩一般都为良好，论文成绩优秀很少很少，除非你是真的学霸，论文成绩良好以下也很少很少，除非你是不想自考毕业，毕业论文可以随便糊弄一下。",
+        "btnText": "2018报名流程自助查询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f11-6.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "（十九）到区县自考办申请自考毕业，等待领取自考毕业证通知<br/>（二十）到区县自考办领取自考毕业证<br/>一年有两次申请自考毕业的机会，上半年和下半年各一次。<br/>上半年为6月份左右，下半年为12月份左右。<br/>因此领取自考毕业证的时间也有两次，上半年领取毕业证为7月份左右，下半年领取毕业证为3月份左右。<br/>（二十一）符合学士学位授予条件的自考生可以申请学士学位证书<br/>一年也有两次申请的机会，分别为4月左右和10月左右。<br/>申请学士学位有限定期限：自从自考毕业内的一年。逾期视为自动放弃申请学士学位证书。",
+        "btnText": "2018报名流程自助查询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f11-7.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "（二十二）领取学士学位证书，拍学士服照片留念<br/>一年也有两次领取的机会，分别为5月左右和11月左右，具体时间看各个主考院校的规定。<br/>领取学士学位证书的那一天，男人穿得帅气点，女人穿得美丽点，毕竟也许你的一生中，只有一次穿学士服的机会。",
+        "btnText": "点击领取尚德1000元培训优惠",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-11.png",
+            "name": "momo",
+            "content": "好全面，感谢作者",
+            "time": "6分钟前"
+          },
+          {
+            "url": "./images/touxiang-12.png",
+            "name": "努力的努力",
+            "content": "涨知识了！感谢分享",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-13.png",
+            "name": "free",
+            "content": "看了这篇感觉清楚多了",
+            "time": "1小时前"
+          }]
+        }
+      }　　
+    },
+    {
+      "id": 12,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "9大热门专业+30个就业方向：据说是当前最全的自考专业解析",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;知乎上有一句点赞破万的评论：“种一棵树最好的时间是十年前，其次是现在”。尊严和自信永远不是别人给的，而是自己挣的。比你成功的人依然在努力，你却在原地踏步，只能是永远仰望他们的人生。",
+      "tag": "自考资讯",
+      "author": "爱学习的人",
+      "time": "2018-4-3",
+      "read": "12.6k",
+      "comment": "416",
+      "click": "179",
+      "image": "./images/f12-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你是不是也想改变现状，是不是也想过上理想的人生。什么能够帮到你，学历！学历！学历！<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又到了自考的报考季，你是否了解自考？是否参加过自考？是否知道在中国，有成千上万人因为自考改变命运？今天，尚德君就为大家讲解自考中最热门的九大专业，认真看完，你一定会找到自己喜欢的专业。",
+        "btnText": "点击获取：轻松备考方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f12-2.png ",
+        "imgWidth": "100",
+        "content": "",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "汉语言文学",
+        "image": " ./images/f12-3.png ",
+        "imgWidth": "100",
+        "content": "就业方向： 教师、文职、销售、 公务员<br/>备注：<br/>1. 首先，汉语言文学是所有专业里最容易考过的，主要是文学类和教育类的知识点，100分的题三分之二都是选择判断，简答题只要回答就会给分；<br/>2. 其次，汉语言文学是所有专业中最快的，一年半的时间就可以考完申请毕业；<br/>3. 最后，它还是一个就业面特别广的专业，学完之后可以从事广告、文案、编辑等工作，也可以进入公司的管理部门，行政，人力资源，销售，市场，教育管理等。除了财务、程序员等技术类岗位，基本上适用于所有岗位。",
+        "btnText": "2018自考流程指导书",
+        "btnShow": "0"
+      },
+      {
+        "title": "行政管理",
+        "image": " ./images/f12-4.png ",
+        "imgWidth": "100",
+        "content": "就业方向：文职、人力资源、管理、公务员<br/>备注：<br/>1. 行政管理也是所有专业中简单好考的专业之一，考卷情况同汉语言文学一样；<br/>2. 其次，取证时间特别快，2年即可修完；<br/>3. 这个专业可以学到很多管理相关的知识，领导科学、团队管理、管理心理学。行政管理是管理类的基础专业，80%的管理类岗位都会选择这个专业，在这个专业可以学到领导科学，组织行为学等知识。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "会计",
+        "image": "./images/f12-5.png ",
+        "imgWidth": "100",
+        "content": "就业方向：考会计证、从事会计、银行、金融企业、创业<br/>备注： <br/>1. 首先会计是这些年含金量特别高的专业之一；<br/>2. 考证时间快，最快2年的时间就可以考完申请毕业了；<br/>3. 工作稳定，就业机会多，会计晋升路线清晰，会计专业里面包含很多理财相关的知识，投资、资产管理等课程。",
+        "btnText": "免费领取专属学历提升方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "工商企业管理",
+        "image": " ./images/f12-6.png ",
+        "imgWidth": "100",
+        "content": "就业方向：销售、管理、创业、工程、计算机专业、市场营销（电子商务、物流管理）等<br/>备注：<br/>1. 首先工商企业管理是自考里含金量特别高的一个专业，也是最实用的一个专业，公司中任意岗位都可以找到相对应的专业知识。还可以一学考多证，与会计证、CPA、人力资源资格证书、MBA，无缝对接；<br/>2. 其次，工商企业管理是所有专业里较快的，2年时间就可以考完申请毕业；<br/>3. 工商企业管理本身是一个管理类的综合性学科，既包括三大核心驱动部门——人力、财务、营销的相关知识，同时还包括三大核心职能部门——行政、法务、运营的具体应用，所以选择的人也比较多，企业对这个专业的认可度非常高。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "法律",
+        "image": "./images/f12-7.png ",
+        "imgWidth": "100",
+        "content": "就业方向：司法系统、交警、公务员、律师<br/>备注：<br/>1. 首先，法律专业学习时间特别快，2年时间就可以考完申请毕业；<br/>2. 其次，考试难度低，都是一些基础且实用的课程。敲黑板划重点：不考数学！<br/>3. 法律行业人才需求量大，薪资高，工作体面。在国内而言，法律这个行业领域还不完善，越是不完善，就越有空间，真正能前期有经验的人以后就会更吃香。法律本身是报考公务员的首选专业，30%的岗位都可以选择。",
+        "btnText": "点击测试适合你的专业",
+        "btnShow": "1"
+      },
+      {
+        "title": "英语",
+        "image": " ./images/f12-8.png ",
+        "imgWidth": "100",
+        "content": "就业方向：英语老师、外企翻译、国际金融企业、海关<br/>备注：<br/>1. 首先，考试科目少，一年半就可以考完。英语专业含金量高；<br/>2. 简单容易，零基础也可入门。学好英语能扩宽职业空间，大幅提升职场竞争力，尤其是去外企和国企优势就更明显。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "金融学",
+        "image": "./images/f12-9.png ",
+        "imgWidth": "100",
+        "content": "就业方向：考证券资格证、金融行业、进银行、做保险、学股票知识等<br/>备注：<br/>1. 首先金融学的含金量在近些年特别高，也是高薪行业排名前三的大行业；<br/>2. 其次考证快，2年时间就可以考完申请毕业；<br/>3. 根据国家教委的要求，该专业是以培养企业中高层管理者为主的，根据实际工作经验可以去不同企业做业务主管或部门经理，还可以进银行，从事保险业、金融业。",
+        "btnText": "2018报名流程自助查询",
+        "btnShow": "0"
+      },
+      {
+        "title": "学前教育",
+        "image": " ./images/f12-10.png ",
+        "imgWidth": "100",
+        "content": "就业方向：公办幼儿园、教育培训机构、教育创业<br/>备注：<br/>1. 首先，这个专业是简单好考，考证也很快，2年就能考完。专科无需考英语和数学，本科不考数学，纯文科知识，容易学习；<br/>2. 其次，学前教育专业的就业率很高，社会上供不应求，很多幼儿园都需要提前下“定单”。要注意的是，社会并不缺少幼儿教师，却十分缺少高文化高素质的幼儿教师，就业前景广阔。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "计算机信息管理",
+        "image": "./images/f12-11.png ",
+        "imgWidth": "100",
+        "content": "就业方向：程序员、产品经理、数据分析、网络推广<br/>备注：<br/>1.首先，计算机专业的考证时间也很快，两年考完就可申请毕业。<br/>2.其次，计算机专业的含金量非常高。计算机技术符合时代发展趋势，程序员的平均工资基本是以上所有专业中最高的，几乎所有公司今后都会涉及互联网方向，所以专业含金量高，市场需求量大，就业前景十分看好。",
+        "btnText": "更多自考专业详情",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-9.png",
+            "name": "zakka",
+            "content": "想咨询一下想晋升公司管理层哪个专业好",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-3.png",
+            "name": "努努力",
+            "content": "感觉很多公务员的岗位都招汉语言专业的",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-13.png",
+            "name": "xxxxxl",
+            "content": "想学法律，会不会很难啊",
+            "time": "1小时前"
+          }]
+        }
+      }　　
+    },
+    {
+      "id": 13,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "本科、专科、高中毕业的他们，现在怎么样？这些大数据帮你认清这个社会",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在你还没有成功，在你还在努力的时候，不要告诉人家说你有多苦。当你成功的时候，苦也不需要你自己来说。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——萧敬腾",
+      "tag": "自考交流",
+      "author": "我是自考人",
+      "time": "",
+      "read": "12.6k",
+      "comment": "358",
+      "click": "172",
+      "image": "./images/f13-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "今天，我们来谈谈985/211、本科、专科、高中毕业的他们收入到底是多少？！",
+        "image": "./images/f13-2.png ",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 冯布出身在大西北一座二线城市附属乡镇里，背靠大荒山，面对黄土坡，关于他的家乡，用他的话来形容：“我的命运基本一眼望到了尽头。”他人生前18年从没有走出过那个黄土坡，也没有人来问津他们这里的生活。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他从没看过外面的世界，所有关于外面世界的资讯都来自于那部用了6年的诺基亚硬壳手机，由于手机版本太低，大多数软件已经不能更新使用，每次收到新闻推送，他甚至一度怀疑这些新闻是不是真实发生的,直到看了电视播出的新闻后才敢相信。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “那他这样望到了命运的尽头是不是为时过早？”“还没有过过生活，就开始垂头丧气？”“你走过人生吗？就把自己的后半生否定了?”我想这些是度友对他的各种疑问，关于“命运一眼望到了尽头”四叔并没有问冯布，但四叔认为他之所以这么说完全因为他的观察与“经验”，似乎听起来很荒唐的推断，但确实存在其中。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;冯布并没有走完自己的一生，但他看到过太多人的“一生”，父亲那一辈，靠着这座大荒山，拼了命的奋斗，始终没有改变；亲戚、朋友、邻居前赴后继，也没有改变。他们在过去的30年很少有走出过大荒山，他们穷极一生奋斗为了只是改变，然而这么多所谓的“经验”告诉冯布一个道理：你不可能改变，即使有那个运气，也轮不到你！还是死心算了！",
+        "btnText": "点击获取：轻松备考方案",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f13-3.png ",
+        "imgWidth": "100",
+        "content": "冯布偏偏不信这个邪，他坚信用功读书，方可过上自己想要的生活。高中在镇上念书时，家人曾劝他辍学回家，不要再读书了。家人说：“读书改变命运的人在镇上太少了，你得认命不如早点回来在家做黄米加工生意，做的好能赚些生活费糊个口，以后在县里讨个媳妇，生个娃安享后半生多好。” <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 冯布听到这里，心头一震，他脑海里第一反应是：我的后代命运也会和我一样！<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 他没有听家里的劝说，他选择了高考，10年寒窗苦读只为那两日的血战，这次幸运女神偏偏选择了冯布，当年他被北京一所985/211院校录取，拿到录取通知书的那一刻，他望着门口的荒山，眼眶早已湿润。上大学那年，恰逢互联网热潮大肆蔓延，他果断选择了电子商务专业，在校期间还辅修了销售、新媒体专业。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 这些看似逻辑关联的专业都源于他对时代的洞察，那个背靠荒山出走的孤独青年深知：想改变一生的命运，除了拥有重要的文凭，结合时代的势能尤为重要，而传统行业正在面临着萧条、衰退，互联网将是他逆袭的救命稻草。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三年前，冯布毕业了，他顺利进入国内一家顶级互联网公司，负责研究、探索、服务用户与商家的关系，并搭建用户与商家之间的贸易桥梁，在他的带领下，项目持续推进，逐步打造成为业内口碑极佳的互联网体系，如今入职满3年的冯布月薪4万，加上年底分红，步入年薪50W群体中的一员。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上周四叔采访他时，他说：“虽然在北京买房现在还有些吃力，但在国内二三线城市，买房对于我来说还算比较轻松，我当年的出身曾经让我一眼望到了尽头，但我没有放弃我的人生理想，我日日夜夜的拼命奋斗就是为了老去那天不要留给自己遗憾，同时我可以和我的儿子说：老爸当年那么拼就是不想让你们出生在大荒山，希望你们今后会过的更好。”",
+        "btnText": "专业学历提升方案，点击获取",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ./images/f13-4.png ",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;马凯的出身要比冯布好一些，他生活在一座二线城市，但命运女神没有那么眷顾马凯，高考失利的他在一所当地专科院校学习汽车修理，用他的话来说自己的行业：“修车真是一个辛苦活，夏天车间的工作环境闷热潮湿，冬天严寒刺骨还要继续加班加点，这活真不是人干的，我就想现在把手艺学扎实，学精通了，以后开一个属于自己的汽车修理厂。”",
+        "btnText": "2018自考流程指导书",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": " ./images/f13-5.png ",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四叔上周联系上了马凯，如今的马凯在以前的汽修厂对面开了一家小店，专门做汽车保养和维护，虽然比以前工作还辛苦，但毕竟这是自己的店，他想经营好自己的店，未来有可能的话可以再开几家分店，浑身被机油熏得黝黑的他笑着说：“反正啊，我这辈子算是卖给汽车了。”马凯现在的工资是2-3万每个月，这个收入对他来说已经很理想了。",
+        "btnText": "免费咨询：本科学历获取方案",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/f13-6.png ",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘放的性格和名字一样，性格极其奔放，能说会道，还夹杂一点“人来疯”。高中没读完的他便辍学在家，瘦弱的体格曾上工地干了几天，发现实在不能干力气活便选择了离开。刘放去了外地，在外地打工几年，手里也没有攒下太多钱，随着年龄越来越大，考虑到之后要买房、娶妻，他选择回到养育自己的城市。没有学历，没有学位，他找不到合适的用人单位。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无意间他看到了健身房招聘海报，他报了健身房进行强化训练，半年后他顺利成为这家健身房的助理教练，他说：“虽然每个月到手只有3000元，怎么也比他去干体力活强，何况健身还对身体好呢。”",
+        "btnText": "在线答疑：低基础如何学本科",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四叔在和这三位朋友聊天时，感触颇深。他们中并非每个人都充满快乐，相反，都有自己的苦恼。冯布的忧愁来自于北京的买房压力，但他自己想想曾经那座噩梦般的大荒山，一切烦恼瞬间烟消云散。刘放的忧愁、苦恼来自于自己的收入，他过惯了饥一顿饱一顿的生活，特别渴望拥有一份月薪上万的工作，哪怕有5000元，他也可以让自己生活改善的好点。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;马凯的忧愁来自于市场，他说这个风云变化的时代，他的修车行仿佛一艘大洋里漂泊的小船，稍有不慎，他的店可能淹没于市场之中，他只能选择再次就业。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/f13-7.png ",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四叔曾经听过一句话：人这一生都在打工，政府、事业单位员工在为政府、事业单位打工，企业老总、个体户在为企业、店面打工，而公司、企业员工是在为公司打工，但所有人都有一个共同的前提是：他们都在为自己打工。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文中三位朋友之间的年龄不过几岁差异，在奋斗的线路上已经逐渐拉开。在我们身边，像冯布、马凯、刘放这样的人随处可见，他们本来起点相同，但成长时的路径却慢慢发生着变化，最终导致的结果也截然不同。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们可以看到，当下80、90、00后正在崛起，四叔身边就有很多杰出的80、90、00后，第一批90后甚至已经步入中年危机，他们面临的是付不起的首付，拿不出的彩礼，他们大多为三个月一交的房租发愁，按照工资的进度，可能再过10年才能买得起房和车，可那时的房价又是一个未知数，同样是80、90后，有的还在为生计徘徊挣扎，而有的人已经背着大量资本收割离场。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾经有位国外的学者说：现代社会，平均每几年会出现一次大势，每一次都会造就一批成功者，这波势能会推动着历史、经济进程加速前进，个人命运也与大势紧密相连。而我们人生中前几次因为年纪太小，多数人没有办法把握，后两次由于年纪太大没有精力把握。<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最黄金的机会会在20岁到45岁之间出现，期间只要抓住一次就可以赢得整个人生。少部分人是后知后觉，大多数人是不知不觉。（过去20年的几次大势明显突出：80年代的高考，90年代的房产大潮，2000后的互联网浪潮，当下的移动互联网热皆是如此。）<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当然，通往成功的路径很多，用最正确最合理的路径成就自己。如果路径不对，那么后果会不堪设想。刘放曾说：“这些年，原以为自己的生活随心所欲，没想到，我在追寻自以为对的路上，硬是把自己围成一堵密不透风的墙。”重本也好，985/211也好，专科也好，高中也好，你愿意在日后的生活里做冯布、马凯还是刘放？",
+        "btnText": "你离本科学历只差一次免费咨询",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-2.png",
+            "name": "rourou",
+            "content": "学历不一样，接触的人都不一样了",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-3.png",
+            "name": "luna",
+            "content": "学历是求职的敲门砖",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-7.png",
+            "name": "star",
+            "content": "看得我也想提升学历了",
+            "time": "1小时前"
+          }]
+        }
+      }　　
+    },
+    {
+      "id": 14,
+      "type": 2,
+      "feeds_show": 1,
+      "title": "名校vs专业，怎么选？",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 名校or专业，怎么选？这是很多小伙伴纠结的问题。为了毕业证更加“好看”，是不是应该选择名气更大学校？但可能因为名校的报考生数量过多，又担心选不到自己心仪的专业。遇到这样的情况，该如何选择呢？",
+      "tag": "自考答疑 ",
+      "author": "静读君",
+      "time": "2018-5-11",
+      "read": "12.6k",
+      "comment": "279",
+      "click": "112",
+      "image": "./images/f14-1.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "如何选择自考学校？",
+        "image": "./images/f14-2.png ",
+        "imgWidth": "100",
+        "content": "记得有一句话是这样说的：“不管发生什么，都不要轻易放弃，坚持走下去，肯定会有意想不到的风景。”<br/><br/>也许现在的际遇并不能让你看到曙光，但请你再坚持一下。<br/>毕竟，未来的路还很长。走下去，会累；不走，会后悔。<br/><br/>只有坚持走下去，才会一点一点地看到希望，才不至于抱憾终老。<br/><br/>去相信吧，总有一天，生活会以崭新的姿态迎接你，让你释怀种种不如意的过往。<br/><br/>需要强调的是，自考不同于高考填报志愿，高考选一个好的学校也许能改变你的未来。<br/><br/>但对于自考而言，选学校的话，其实并没有太多不同，主要体现在实践考核以及论文答辩上。<br/><br/>实践考核的科目，以英语为例，专科段有口语和听力考试。<br/><br/>这两项考试都是由主考院校自行组织的考试，由大学组织出题，考试，阅卷。<br/><br/>当然，为了好看，大部分考生还是倾向于，参加名头大一些的主考院校。如果名校中有想要考的专业，当然是最好不过的了！",
+        "btnText": "更多主考院校信息",
+        "btnShow": "1"
+      },
+      {
+        "title": "如何选择自考专业？",
+        "image": " ./images/f14-3.png ",
+        "imgWidth": "100",
+        "content": "在考生就业时，专业本身的就业形势，及专业与岗位的对口性更为重要。<br/><br/>就算是在普通高等教育领域，名校优势也不一定大于专业的对口性。<br/><br/>比如名校非会计专业的毕业生，在竞聘相关岗位时，未必比非名校会计专业的毕业生有优势。<br/><br/>这样简单的道理，同样适用于自考。<br/><br/>考生在求职时，用人单位选拔人才，并不会单纯地以主考校的名气为依据。<br/><br/>专业素质才是考生能在某一岗位，取得竞争优势的重要因素。",
+        "btnText": "点击了解更多自考热门专业",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": " ./images/f14-4.png ",
+        "imgWidth": "100",
+        "content": "考生如果非挑“名校”，因此与更适合自己的专业失之交臂，实则得不偿失。<br/><br/>从考生选专业的角度而言，由于自考开设的都是应用型专业，专业与行业有很强的相关性。<br/><br/>专业的对口性在自考生就业时，往往是决定因素之一，而不是靠一块名校招牌就能吃遍天下。<br/><br/>拿着与岗位完全不对口的学历，即使考生自己认为是“名校学历”，也未必会被录用。<br/><br/>通过专业的学习掌握真本事，拿着适应岗位的学历寻找工作，才是求职的正途。<br/><br/>事实上，只要专业对口，就业时并不会因为主考校的名气不同而有差别。<br/><br/>因此，如果单纯以就业为导向来选择专业，还是把关注点放在专业本身。",
+        "btnText": "点击定制：专属学历提升方案",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-2.png",
+            "name": "littleQi",
+            "content": "我觉得专业更重要一些",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-3.png",
+            "name": "panda",
+            "content": "学校专业都是找工作的垫脚石，学知识才是最重要的",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-7.png",
+            "name": "star",
+            "content": "我报的汉语言，希望能考个公务员",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "在尚德上课是种怎样的体验",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在尚德学习，在尚德准备自考，需要的只是茶余饭后挤出来的那一点点时间。在尚德上课到底是什么样的体验？往下看：",
+      "tag": "自考交流",
+      "author": "Lily姐",
+      "time": "2018-4-8",
+      "read": "12.6k",
+      "comment": "477",
+      "click": "132",
+      "image": "./images/f15-1.png",
+      "imgShow": "0",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "",
+          "image": "",
+          "imgWidth": "",
+          "content": "上课时间：<br/>一般情况下，每周三节课：周一、三、五的19：30到21：30。<br/><br/>上课方式：<br/>首先，不管是直播还是录播，同学都是随时能找到老师解答问题。班主任/值班老师7*24小时在线。报名以后没人管？不存在的——教室就是这样被搬到了互联网上。",
+          "btnText": "更多主考院校信息",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f15-1.png ",
+          "imgWidth": "100",
+          "content": "上课界面也是可以根据个人喜好调整的，喜欢看着老师，咱们就看着老师，喜欢看板书，咱们就看着板书，完全没有拘束<br/><br/>直播：<br/>老师会进行实时直播讲课，有问题可以随时提问：一个老师主讲，4个辅导老师负责在线答疑。而且你还可以跟同班同学进行互动交流，比如说老师讲的好，你可以撒个花点个赞，跟在各大平台看直播完全是同一个feel。",
+          "btnText": "点击领取免费试听课程",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": " ./images/f15-2.png ",
+          "imgWidth": "100",
+          "content": "录播：<br/>假如，你忽然晚上加班，课程没来得及看，那也不用担心。所有直播课程播放完之后都可以缓存到手机，没网也能看。想看哪里看哪里、想看几遍看几遍。在看回放的时候，有不清楚的，都可以在APP联系到老师，解决问题。",
+          "btnText": "点击定制：专属学历提升方案",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f15-3.png ",
+          "imgWidth": "100",
+          "content": "其他服务：<br/>个人专属的班主任，帮你指定学习计划和解决所有疑问<br/>报名之后24小时内会有班主任联系学员做学习规划：下次考试考什么就先学什么，比如说先考马克思主义，文学史，就安排先学这几门课程。<br/>后期班主任会每周都进行回访学习成果，以及上课中遇到的问题。<br/>最后根据你的日常反馈，和考试情况，把你薄弱的知识点汇总出来，在考前给你集训。所以，不需要担心考不过，只要用心，一定可以很轻松的考过。<br/>是不是对我们的教学方式很心动，那就点击“立即报名”赶紧报名体验吧！",
+          "btnText": "点击立即报名尚德",
+          "btnShow": "1"
+        }
+
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-4.png",
+            "name": "liliQi",
+            "content": "报了尚德的课程，班主任很负责，讲课的老师也很幽默，文科类也不枯燥",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-6.png",
+            "name": "panda",
+            "content": "自考需要坚持和努力，加油",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-8.png",
+            "name": "star",
+            "content": "已经考过了4科，继续加油",
+            "time": "1小时前"
+          }]
+        }
+      }　　
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "feeds_show": 1,
+      "title": "为什么读书和不读书的人，过的是不一样的人生？",
+      "msgShow": "0",
+      "message": "",
+      "tag": "自考交流",
+      "author": "Lily姐",
+      "time": "2018-4-8",
+      "read": "12.6k",
+      "comment": "477",
+      "click": "132",
+      "image": "./images/f16-4.png ",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "",
+          "image": " ./images/f16-2.png ",
+          "imgWidth": "100",
+          "content": "还记得在春节之前，Lily姐给大家推送过一篇文章：《5本假期必读好书推荐，读完就能用起来》，那么，这个假期你有没有真的去读书呢？<br/> Lily姐在没有wifi和4G情况下，主动选择去读书，不仅受到了亲朋好友的一致称赞，同时也收获不少知识。",
+          "btnText": "更多主考院校信息",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f16-3.png ",
+          "imgWidth": "100",
+          "content": "关于人为什么要读书，不同的角色给出过不同的观点：<br/>其中最出名的当属周总理的论断：“为中华崛起而读书”，这是身居忧患者的呐喊；<br/><br/>宋真宗赵恒曾说：“书中自有黄金屋，书中自有颜如玉”，这大概是最接近功利社会的阅读目的； <br/><br/>不过理想主义的读书人都会为心中留下一方净土，譬如唐朝刘禹锡这样写道：“数间茅屋闲临水，一盏秋灯夜读书”，何等的闲适与安逸！<br/><br/>余秋雨说：“读书的最大理由是摆脱平庸。”坚持终身读书的人，一定是不平庸的。<br/><br/>三毛说：“书读多了，容颜自然改变，很多时候，自己可能以为许多看过的书籍都成为过眼烟云，不复记忆，其实它们仍是潜在的气质里、在谈吐上、在胸襟的无涯，当然也可能显露在生活和文字中。”",
+          "btnText": "点击领取免费试听课程",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f16-4.png ",
+          "imgWidth": "100",
+          "content": "读书的人和不读书的人，过的是不一样的人生。<br/><br/>你会看见，锻炼与不锻炼的人，隔一天看，没有任何区别；隔一个月看，差异甚微；但是隔五年十年看，身体和精神状态上就有了巨大差别。读书也是一样的道理，读书与不读书的人，日积月累，终成天渊之别。<br/><br/>读经典的书籍，就像接受一次次精神上的洗礼。它们值得一读再读，每一次阅读，都会有不一样的收获。真正的好文字如春风拂柳，雨中白莲，雪中红梅，暗香浮动。它们充满诗情画意，明丽纯粹；充满叩问深思，发人深省。",
+          "btnText": "点击定制：专属学历提升方案",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f16-5.png ",
+          "imgWidth": "100",
+          "content": "读书的意义不仅仅是这些，但是读书的意义只有靠自己去领悟。<br/><br/>在这喧嚣的世界，大多数人仍然所见极有限，又迷失在太多讯息中。讯息不等于眼界。只有沉下心来多读书，才能吸取真正的养分。<br/><br/>当你用心阅读了大量的书籍后，会更加深刻地感受到——一个成功和优秀的人的背后，必然有一个伟大的人格。",
+          "btnText": "点击立即报名尚德",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f16-6.png ",
+          "imgWidth": "100",
+          "content": "读书，是成本最低的投资，是提升自己眼界和人格的最佳途径。<br/><br/>读完更多的书后，你会发现读书让人的姿态越来越低，眼界却越来越高。<br/><br/>书不会拒绝你，读书是一件很公平的事情，在岁月的流逝中，它会把最美好的运气融进你的生命中。<br/><br/>一个喜欢读书的人，品格不会坏到哪去；一个品格好的人，一生的运气不会差到哪去。<br/><br/>所以，在新的一年，希望你们和Lily姐一起，每天抽出半小时，通过读书去认识自己，提升自己，遇见更好的自己。",
+          "btnText": "免费获取个人学历提升方案",
+          "btnShow": "1"
+        }
+
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-1.png",
+            "name": "Book",
+            "content": "多读书可以开阔眼界",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-6.png",
+            "name": "Alice",
+            "content": "有什么好书推荐吗",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-11.png",
+            "name": "babyy",
+            "content": "前几天读了《三体》，没点文化都看不懂",
+            "time": "1小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 1,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "【学员故事】关于自考，这些学员有话说",
+      "msgShow": "1",
+      "message": "进取的母亲是孩子最好的榜样。",
+      "tag": "自考交流",
+      "author": "加分情报局",
+      "time": "2018-5-11",
+      "read": "12.6k",
+      "comment": "269",
+      "click": "62",
+      "image": "./images/f17-1.png",
+      "imgShow": "0",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+        {
+          "title": "",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尚德自考学员中，有50%的人已经当了妈妈。采访中，很多妈妈说参加自考的原因除了提升学历，增加找工作的砝码，还希望通过学习增长知识，为孩子树立榜样。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天介绍3位通过自考不断成长，勇于改变的妈妈，她们用行动证明，进取的母亲是孩子最好的榜样。",
+          "btnText": "更多主考院校信息",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": " ./images/f17-1.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "点击领取免费试听课程",
+          "btnShow": "0"
+        },
+        {
+          "title": "大侠姐，来自北京，31岁，一个9岁孩子的母亲。",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有一天，上小学三年级的孩子问她：“我们班XX同学的母亲是研究生，你是什么学历呀”，她一时语塞。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大侠姐从小就梦想成为一名人民教师，但因为年少时家庭条件不好，为了不给家里增加负担，她放弃了上大学的机会。所以，当儿子这么问她时，没有上大学的遗憾，唤起了她年少时的大学梦。最后，在爱人的鼓励下，大侠姐来到尚德，踏上了自考之路。",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+
+        {
+          "title": "",
+          "image": " ./images/f17-2.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "专业推荐：简单好考从业广",
+          "btnShow": "0"
+        },
+        {
+          "title": "周宇，29岁，全职妈妈",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她不喜欢“宝妈”这个称呼，她希望在家带孩子期间，提升学历，拿下人力资源资格证书，等宝宝稍大些就能去从事自己喜欢的人力相关工作。她说：“未来的我，会感谢现在奋斗的我”。",
+          "btnText": "2018尚德培训报名通道",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "  ./images/f17-3.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "2018尚德培训报名通道",
+          "btnShow": "0"
+        },
+        {
+          "title": "李茜茜，30岁，2个孩子的母亲",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在山东老家亲友们的眼中，无疑是个通过努力实现梦想的“人生赢家”。北漂八年，她不仅如愿在北京安了家，有了疼爱她的丈夫和可爱的孩子，通过努力拿到学历证书和初级会计证，让她在求职过程中如鱼得水。对于自己的改变她感到非常高兴，因为从此简历不再空白，好几家会计事务有意邀她加入。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在尚德，有几十万像上面3位妈妈一样努力拼搏的学员，她们不安现状，通过学习改写命运。",
+          "btnText": "2018尚德学历培训入口",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "  ./images/f17-4.png ",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "低基础学历提升方案",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": " ",
+          "imgWidth": "",
+          "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她们说自考不仅提升了学历，让求职更有底气，",
+          "btnText": "仅限10名！点击领取1000元优惠券",
+          "btnShow": "0"
+        },
+        {
+          "title": "",
+          "image": "./images/aticle-banner1-3.png",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "",
+          "btnShow": "0",
+          "xiaonengshow": "1"
+        },
+        {
+          "title": "",
+          "image": " ",
+          "imgWidth": "",
+          "content": "最重要的是，自己成为了孩子学习的榜样，和孩子一起成长的感觉真好，那份油然而生的骄傲、自信是任何东西都换不来的，真的很感谢当初勇于改变的自己。<br/><br/>如果，你也希望成为孩子的榜样；<br/>如果，你曾经遗憾错过大学；<br/>如果，你想逃离现在无趣又无意义的工作；<br/>也许，提升下学历，考个名校本科，生活会变得不一样！",
+          "btnText": "仅限10名！点击领取1000元优惠券",
+          "btnShow": "1"
+        },
+        {
+          "title": "",
+          "image": "./images/aticle-banner1-3.png",
+          "imgWidth": "100",
+          "content": "",
+          "btnText": "",
+          "btnShow": "0",
+          "xiaonengshow": "1"
+        }
+      ],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-13.png",
+            "name": "LOVE",
+            "content": "好勇敢的妈妈们",
+            "time": "3分钟前"
+          },
+          {
+            "url": "./images/touxiang-18.png",
+            "name": "几天",
+            "content": "学习什么时候开始都不晚，为她们加油",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-17.png",
+            "name": "babyy",
+            "content": "喜欢这样坚强努力的人",
+            "time": "1小时前"
+          }]
+        }
+      }　　
+    },
+    {
+      "id": 18,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "师者仁心，不愧于心",
+      "msgShow": "0",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当走在繁华的街头，或穿梭在人流如织的地铁中，人们往往对一块块写有“学习是一种信仰”的广告牌并不感到陌生，但对于广告的发布者——尚德机构，很多人却并不了解。",
+      "tag": "自考交流",
+      "author": "自考大本营",
+      "time": "",
+      "read": "12.6k",
+      "comment": "544",
+      "click": "209",
+      "image": "./images/feeds-13-top.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "十五年师者之路，我们用心付出<br />教育就是一棵树摇动一棵树<br />一朵云推动一朵云<br />一个灵魂唤醒另一个灵魂<br /><br />为唤醒而生，因善良而成长<br />2003年，尚德应运而生",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "15年，我们不断探索和追求教育的本质<br />秉承 教育不是给予而是点亮的办学理念<br />强调 进取、坚韧、开放、影响 的企业价值观追求让员工和用户 生而为人，与众不同 <br /><br />15年，我们源于专业<br />尚德机构是国内领先的互联网教育公司。在教学模式上，利用自身技术上的优势，大胆探索个性化教育、寓教于乐等新型互联网教育形式，让学员在轻松、快乐的氛围中实现更好的学习效果。<br /><br />深耕互联网教育，被誉为中国新锐互联网大学<br />荣获中国教育领军品牌<br />正式上线，便捷于生活，方便于工作<br />耗巨资投入研发、教研项目<br />聘请高端人才成立独立教研团队，深钻自考领域<br />举办各大MBA名校宣讲会，帮助广大MBA报考学员攻克难题",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-1.png",
+        "imgWidth": "100",
+        "content": "15年，我们坚持善良<br />在十几年的办学过程中，我们始终不忘自身肩负的社会责任，通过参与或发起多种形式的公益善举，助力更多热爱学习的人实现了他们的求学梦想以及人生的蜕变。<br /><br />加盟新华爱心教育基金会发起的公益项目——“捡回珍珠计划”，助失学的优秀学子重新绽放出珍珠般的光芒。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-2.png",
+        "imgWidth": "100",
+        "content": "加入上海杉树公益基金会的支教项目，以志愿者支教的形式帮助凉山地区解决师资不足等问题，助力凉山孩子通过学习改变命运。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-3.png",
+        "imgWidth": "100",
+        "content": "建立尚德公益图书馆，成立“HOPE基金会”，在欠发达地区的乡村小学和山区建立起尚德公益图书馆，配置适合当地教师和青少年儿童阅读的图书，让阅读之光点亮乡村小学的每一个角落。:学员热情度非常高，考试通过率超过传统面授时期。尚德机构还利用技术优势进行学员大数据的挖掘，学员在线学习的行为成为机构进行针对性服务、个性化服务的“导航仪”——通过这些努力，尚德机构收获了比其他机构、甚至比自己过去更高的学员满意度和考试通过率。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-4.png",
+        "imgWidth": "100",
+        "content": "推出“尚进生”公益助学项目，对于符合“尚进生”标准的学员，尚德机构将给予其免费学习一门培训课程的爱心资助，让困难人群不再与学习失之交臂。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-5.png",
+        "imgWidth": "100",
+        "content": "公司内部推出“彗星奖”，嘉奖最具用户价值的学习规划师，让更多员工真正成为“知识使者”、“学习专家”和“人生伙伴”！<br /><br />15年，我们不断强大<br />从初出茅庐到业内领军，我们服务的学员遍布大江南北，我们也在不断地更新服务，致力于为学员提供更好的课程体验。<br /><br />100余校区遍布全国各地<br />在武汉开展第二核心，员工人数破万<br />首登央视春晚，用10秒诉说了15年的信仰<br />赴美上市，成为一家美股上市的互联网教育机构",
+        "btnText": "在线咨询",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-6.png",
+        "imgWidth": "100",
+        "content": "我们始终相信 学习是一种信仰<br />致力于通过学习帮助学员改变命运<br />助力他们实现自己的人生梦想——<br />学历提升，升职加薪......<br /><br />我们希望通过这些努力<br />不断地去影响和改变更多的人<br />于沉睡时唤醒，于迷茫时指引为国家和社会的进步贡献出自己的一份力量",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-7.png",
+        "imgWidth": "100",
+        "content": "尚德青年有所为<br />学员是我们的衣食父母，我们需要将更多的爱与温暖给到学员，时刻照顾学员的感受，时刻以学员的利益为最大的利益，坚持用户第一。<br /><br />尚德人，必须坚持：<br /><br />时刻自省反思，是否坚持了尚德机构的核心价值观——“用科技和人文重塑教育，让每一个人都爱上学习并从学习中收益。”<br /><br />身为教育工作者，就应当拥有换位思考和倾听的能力，最重要的一点是根据事实给出合理建议，你需要有讲真话的能力和最真诚的服务意识。<br /><br />工作离不开人品，千教万教教人求真，千学万学学做真人。身为人师首先需对自己严格要求，并拥有求真求实的初心。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-8.png",
+        "imgWidth": "100",
+        "content": "所有的尚德人，坚持善良比聪明更重要，师者仁心，能够向着爱的方向前进，把爱放心中，一切为学员，尚德是整个行业的标杆，这是一种殊荣，更是一种使命！<br /><br />师者，传道授业解惑！<br />师者仁心，我们一直在践行！<br />我们一直在路上<br /><br />我们不断优化后端和教研体系，提升服务水平<br />从创造用户价值到用户好评功能上线<br />从APP系统完善到尚德考试加油站<br />从尚德云学堂到尚德免费公开课",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-13-9.png",
+        "imgWidth": "100",
+        "content": "我们一直再不断努力<br />前行的路上虽有波折，但我们一直不忘初心，勇敢前行<br />不负信任，不负选择，不负师者之名！<br /><br />尚德青年-致敬青春<br />青春是什么<br />是才华，是感恩<br />是梦想，是自强<br />是爱国，是担当……<br />青春不朽，无关年龄<br /><br />让我们用炙热的青春，点亮知识的火种<br />回归教育的本质，遵循不变的初心",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-16.png",
+            "name": "下雨了但我没伞 ",
+            "content": "居然看得我热泪盈眶",
+            "time": "5分钟前"
+          },
+          {
+            "url": "./images/touxiang-17.png",
+            "name": "风筝",
+            "content": "果然还是大企业，有责任有担当",
+            "time": "1小时前"
+          },
+          {
+            "url": "./images/touxiang-18.png",
+            "name": "哎呦哎呦",
+            "content": "点赞，32个赞！！！",
+            "time": "2小时前"
+          }]
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": 0,
+      "feeds_show": 1,
+      "title": "总有一种力量，叫“尚德机构”",
+      "msgShow": "1",
+      "message": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当走在繁华的街头，或穿梭在人流如织的地铁中，人们往往对一块块写有“学习是一种信仰”的广告牌并不感到陌生，但对于广告的发布者——尚德机构，很多人却并不了解。",
+      "tag": "自考交流",
+      "author": "尚德机构",
+      "time": "",
+      "read": "12.6k",
+      "comment": "324",
+      "click": "112",
+      "image": "./images/feeds-14-top.png",
+      "imgShow": "1",
+      "upImg": "./images/up.png",
+      "downImg": "./images/down.png",
+      "sections": [
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其实，这个创立于2003年的培训机构，正是凭借着一种执着信仰和追求，才能在短短时间里创造出了很多行业的奇迹；曾经在美国投资了苹果这样伟大公司的著名投资机构——经纬创投，早在2011年就看好尚德机构并为此“下了注”；现如今，尚德机构的业务已覆盖全国多个城市。2014年6月尚德机构以“壮士断臂”的决心，彻底转型互联网。",
+        "btnText": "在线咨询",
+        "btnShow": "0"
+      },
+      {
+        "title": " ",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是信仰，让尚德机构走到了今天；同样，它也在用的信仰的力量回馈社会、造福学员。在尚德机构培养的学员中，很多人因此改变了命运，还有一些人成为了精英或是行业内的佼佼者。 ",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尚德机构成立于2003年，在公司初创的头5年里，尚德机构砥砺前行，不断扩大业务范围，慢慢形成了包括职业资格证书培训、学历培训和IT培训在内的三大主营业务。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "回首过去，尚德机构走过了这样一条发展轨迹",
+        "image": "./images/feeds-14-1.png",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在在线教育还未像现在这样为人们所熟知的时候，一向志在潮头、敢为人先的尚德机构就敏锐地预感到：互联网大潮势不可挡，于是便早早进行互联网转型的布局，并先后孵化了以线上录播为主的第一代互联网产品——“嗨学网”，以及与各大平台对接的、以直播模式为主的第二代互联网产品——“对啊网”，此外又尝试了免费、题库等多种模式，尝试利用技术的手段，努力打破时间和地域的限制，给学员带来更大的便利和实惠。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-14-2.png",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在找到在线直播这一互联网教学模式的基础上，尚德机构全面向互联网转型，打造国内优秀的在线职业培训直播平台。在此基础上，尚德机构进行了很多有益的探索和尝试：通过互联网这一技术平台，尚德机构重塑了师生关系，老师们不仅只是讲课，他们更像产品经理，为学生提供贴心的教学服务和体验；而事实也证明了这样做的效果:学员热情度非常高，考试通过率超过传统面授时期。尚德机构还利用技术优势进行学员大数据的挖掘，学员在线学习的行为成为机构进行针对性服务、个性化服务的“导航仪”——通过这些努力，尚德机构收获了比其他机构、甚至比自己过去更高的学员满意度和考试通过率。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "./images/feeds-14-3.png",
+        "imgWidth": "100",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从国内职业和学历培训领域的“航母”，到成功转型为互联网培训机构，并建立起国内优秀的职业培训在线直播平台，成为领先的互联网教育公司。尚德机构之所以有这么大的勇气和决心，是因为尚德机构一直致力于改变“以培训者为中心”的传统模式，并建立基于互联网基础之上、真正的“以学习者为中心”的培训模式。",
+        "btnText": "发起按钮",
+        "btnShow": "0"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尚德机构鼓励尚德人与学员们在漫漫人生航行中找寻正确的方向，强调通过激发学习者的学习动机和运用新技术的手段，致力于为学员提供快乐、轻松、有价值的学习体验；以此提高学员的职场竞争力，助力学员的全面发展。",
+        "btnText": "在线咨询",
+        "btnShow": "1"
+      },
+      {
+        "title": "",
+        "image": "",
+        "imgWidth": "",
+        "content": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;雄关漫道真如铁，而今迈步从头越。因为尚德人始终相信：真正的教育不是给予，而是点亮。我们会朝着这一目标不断地探索和前行。",
+        "btnText": "在线咨询",
+        "btnShow": "1"
+      }],
+      "comments":
+      {
+        "shareLeft": "./images/share-img-right.png",
+        "shareRight": "./images/share-img-left.png",
+        "message":
+        {
+          "title": "精选留言",
+          "data": [
+          {
+            "url": "./images/touxiang-16.png",
+            "name": "谁还不是小公主咋的 ",
+            "content": "这么牛啊？",
+            "time": "13分钟前"
+          },
+          {
+            "url": "./images/touxiang-17.png",
+            "name": "小杯子",
+            "content": "原来尚德机构是物业起家啊，转型好厉害！",
+            "time": "34分钟前"
+          },
+          {
+            "url": "./images/touxiang-18.png",
+            "name": "章鱼保罗",
+            "content": "之前选择了尚德机构，现在看来选择是正确的",
+            "time": "1小时前"
+          }]
+        }
+      }
+    }
+  ]
+}
